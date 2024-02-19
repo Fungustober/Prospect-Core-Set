@@ -1,3043 +1,2989 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_carddatabase version="3">
-<sets>
-<set>
-<name>PCS</name>
-<longname>Prospect Core Set</longname>
-<settype>Custom</settype>
-</set>
-</sets>
-<cards>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PCS</name>
+      <longname>Prospect Core Set</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
 
-<card>
- <name>UM01 — Arrogant Arcanist</name>
- <set rarity="uncommon">PCS</set>
- <color>WU</color>
- <manacost>WU</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Wizard </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
+    <card>
+      <name>Arrogant Arcanist</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
 Flying (This creature can’t be blocked except by creatures with flying or reach.)
 When Arrogant Arcanist enters the battlefield, return target spell with mana value less than or equal to the number of creatures you control to its owner’s hand.</text>
-</card>
-<card>
- <name>UM02 — Corpse Knight</name>
- <set rarity="uncommon">PCS</set>
- <color>WB</color>
- <manacost>WB</manacost>
- <cmc>2</cmc>
- <type>Creature - Zombie Knight </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Whenever another creature enters the battlefield under your control, each opponent loses 1 life.</text>
-</card>
-<card>
- <name>UM04 — Armed Troops</name>
- <set rarity="uncommon">PCS</set>
- <color>WG</color>
- <manacost>1GW</manacost>
- <cmc>3</cmc>
- <type>Creature - Human Knight </type>
- <pt>*/3</pt>
- <tablerow>2</tablerow>
- <text>When Armed Troops enters the battlefield, create a 1/1 white Human Knight creature token.
+    </card>
+    <card>
+      <name>Corpse Knight</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters the battlefield under your control, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Armed Troops</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Armed Troops enters the battlefield, create a 1/1 white Human Knight creature token.
 Armed Troops’s power is equal to the number of creatures you control.</text>
-</card>
-<card>
- <name>UM10 — Rubblebelt Shaman</name>
- <set rarity="uncommon">PCS</set>
- <color>RG</color>
- <manacost>RG</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Shaman </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>T: Add one mana of any color. Spend this mana only to cast creature spells. When you spend this mana to cast a creature spell, it enters the battlefield with an additional +1/+1 counter.</text>
-</card>
-<card>
- <name>CW06 — Charging Commander</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>1WW</manacost>
- <cmc>3</cmc>
- <type>Creature - Elf Soldier </type>
- <pt>2/3</pt>
- <tablerow>2</tablerow>
- <text>Whenever one or more other creatures you control attack, Charging Commander gets +1/+1 until end of turn.</text>
-</card>
-<card>
- <name>CW08 — Charismatic Tactician</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Creature - Human Advisor </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Charismatic Tactician enters the battlefield, scry 2. If you control three or more creatures, draw a card instead. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
-</card>
-<card>
- <name>CW09 — Basri's Acolyte</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>2WW</manacost>
- <cmc>4</cmc>
- <type>Creature - Cat Cleric </type>
- <pt>2/3</pt>
- <tablerow>2</tablerow>
- <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+    </card>
+    <card>
+      <name>Rubblebelt Shaman</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color. Spend this mana only to cast creature spells. When you spend this mana to cast a creature spell, it enters the battlefield with an additional +1/+1 counter.</text>
+    </card>
+    <card>
+      <name>Charging Commander</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more other creatures you control attack, Charging Commander gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Charismatic Tactician</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Charismatic Tactician enters the battlefield, scry 2. If you control three or more creatures, draw a card instead. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    </card>
+    <card>
+      <name>Basri&apos;s Acolyte</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 When Basri’s Acolyte enters the battlefield, put a +1/+1 counter on each of up to two other target creatures you control.</text>
-</card>
-<card>
- <name>CW10 — Guild Taskmaster</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>3W</manacost>
- <cmc>4</cmc>
- <type>Creature - Human Warrior </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Once each turn, whenever another creature enters the battlefield under your control, put a +1/+1 counter on Guild Taskmaster.</text>
-</card>
-<card>
- <name>CW12 — Regal Guardian</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>5W</manacost>
- <cmc>6</cmc>
- <type>Creature - Human Soldier </type>
- <pt>4/4</pt>
- <tablerow>2</tablerow>
- <text>Vigilance (Attacking doesn’t cause this creature to tap.)
+    </card>
+    <card>
+      <name>Guild Taskmaster</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, whenever another creature enters the battlefield under your control, put a +1/+1 counter on Guild Taskmaster.</text>
+    </card>
+    <card>
+      <name>Regal Guardian</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance (Attacking doesn’t cause this creature to tap.)
 When Regal Guardian enters the battlefield, create a 1/1 white Soldier creature token. Then, you gain 1 life for each creature you control.</text>
-</card>
-<card>
- <name>CW16 — Defiant Strike</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Target creature gets +1/+0 until end of turn.
+    </card>
+    <card>
+      <name>Defiant Strike</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+0 until end of turn.
 Draw a card.</text>
-</card>
-<card>
- <name>CW17 — Timeless Strength</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+    </card>
+    <card>
+      <name>Timeless Strength</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 Enchanted creature gets +1/+1.
 1W: Return Timeless Strength from your graveyard to your hand.</text>
-</card>
-<card>
- <name>CW18 — Alert the Guild</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>2WW</manacost>
- <cmc>4</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Choose one —
+    </card>
+    <card>
+      <name>Alert the Guild</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
 • Creatures you control get +2/+2 until end of turn.
 • Create two 1/1 white Soldier creature tokens. You gain 2 life.</text>
-</card>
-<card>
- <name>CU02 — Augur of the Sapphire</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Wizard </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>1, T: Draw a card, then discard a card.</text>
-</card>
-<card>
- <name>CU03 — Guiding Siren</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Creature - Merfolk </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
+    </card>
+    <card>
+      <name>Augur of the Sapphire</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Guiding Siren</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
 When Guiding Siren enters the battlefield, target creature gets -2/-0 until end of turn.</text>
-</card>
-<card>
- <name>CU04 — Frost Lynx</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>2U</manacost>
- <cmc>3</cmc>
- <type>Creature - Elemental Cat </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step.</text>
-</card>
-<card>
- <name>CU05 — Crustacean Monstrosity</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1UU</manacost>
- <cmc>3</cmc>
- <type>Creature - Crab Horror </type>
- <pt>2/3</pt>
- <tablerow>2</tablerow>
- <text>When Crustacean Monstrosity enters the battlefield, scry 2, then each opponent mills two. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order. To mill two, each opponent put the top two cards of their library into their graveyard.)</text>
-</card>
-<card>
- <name>CU06 — Forgotten Mourner</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>2UU</manacost>
- <cmc>4</cmc>
- <type>Creature - Spirit </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Forgotten Mourner enters the battlefield, look at the top three cards of your library. Put a card from among them into your hand, and then the rest on the bottom of your library in any order.</text>
-</card>
-<card>
- <name>CU07 — Nyxborn Starbather</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>3U</manacost>
- <cmc>4</cmc>
- <type>Enchantment Creature - Merfolk </type>
- <pt>2/3</pt>
- <tablerow>2</tablerow>
- <text>Whenever you cast a spell during an opponent’s turn, put a +1/+1 counter on Nyxborn Starbather.</text>
-</card>
-<card>
- <name>CU08 — Cloudgator</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>4U</manacost>
- <cmc>5</cmc>
- <type>Creature - Elemental Crocodile </type>
- <pt>3/5</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Frost Lynx</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Crustacean Monstrosity</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Crab Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Crustacean Monstrosity enters the battlefield, scry 2, then each opponent mills two. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order. To mill two, each opponent put the top two cards of their library into their graveyard.)</text>
+    </card>
+    <card>
+      <name>Forgotten Mourner</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Forgotten Mourner enters the battlefield, look at the top three cards of your library. Put a card from among them into your hand, and then the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Nyxborn Starbather</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell during an opponent’s turn, put a +1/+1 counter on Nyxborn Starbather.</text>
+    </card>
+    <card>
+      <name>Cloudgator</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Crocodile </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 Vigilance (Attacking doesn’t cause this creature to tap.)</text>
-</card>
-<card>
- <name>CU09 — Magegrasp Kraken</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>5U</manacost>
- <cmc>6</cmc>
- <type>Creature - Squid </type>
- <pt>4/4</pt>
- <tablerow>2</tablerow>
- <text>The first instant or sorcery spell you cast each turn costs 2 less to cast.</text>
-</card>
-<card>
- <name>CU10 — Wall of Rime</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>2U</manacost>
- <cmc>3</cmc>
- <type>Creature - Wall </type>
- <pt>0/5</pt>
- <tablerow>2</tablerow>
- <text>Defender (This creature can’t attack.)
+    </card>
+    <card>
+      <name>Magegrasp Kraken</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Squid </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first instant or sorcery spell you cast each turn costs {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Wall of Rime</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)
 When Wall of Rime enters the battlefield, draw a card.</text>
-</card>
-<card>
- <name>CU13 — Totally Lost</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>4U</manacost>
- <cmc>5</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Put target nonland permanent on top of its owner’s library.</text>
-</card>
-<card>
- <name>CU15 — Search the Scrolls</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Look at the top five cards of your library. Reveal an instant or sorcery card from among them, then put it into your hand and the rest on the bottom of your library in a random order.</text>
-</card>
-<card>
- <name>CU17 — Focused Strike</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>2U</manacost>
- <cmc>3</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
+    </card>
+    <card>
+      <name>Totally Lost</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target nonland permanent on top of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Search the Scrolls</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. Reveal an instant or sorcery card from among them, then put it into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Focused Strike</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
 Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 Whenever enchanted creature deals combat damage, draw a card.</text>
-</card>
-<card>
- <name>CU18 — Grasp of Oblivion</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>When Grasp of Oblivion enters the battlefield, scry 1, then each opponent mills three cards. (To mill a card, put the top card of your library into your graveyard.)
+    </card>
+    <card>
+      <name>Grasp of Oblivion</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Grasp of Oblivion enters the battlefield, scry 1, then each opponent mills three cards. (To mill a card, put the top card of your library into your graveyard.)
 1U: Exile six target cards from your graveyard. If you do, return Grasp of Oblivion to your hand. </text>
-</card>
-<card>
- <name>CU19 — Flowing Mantle</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>2UU</manacost>
- <cmc>4</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>You and creatures you control gain hexproof until end of turn. (They can’t be the target of spells or abilities your opponents control.)
+    </card>
+    <card>
+      <name>Flowing Mantle</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You and creatures you control gain hexproof until end of turn. (They can’t be the target of spells or abilities your opponents control.)
 Draw a card.</text>
-</card>
-<card>
- <name>CB01 — Serrated Scorpion</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type>Creature - Scorpion </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>When Serrated Scorpion dies, Serrated Scorpion deals 2 damage to each opponent and you gain 2 life.</text>
-</card>
-<card>
- <name>CB02 — Watcher of the Knights</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Creature - Zombie Knight </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>When Watcher of the Knights enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-</card>
-<card>
- <name>CB03 — Doomed Dissenter</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Creature - Human </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>When Doomed Dissenter dies, create a 2/2 black Zombie creature token.</text>
-</card>
-<card>
- <name>CB04 — Unwitting Sacrifice</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Knight </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>B, Sacrifice Unwitting Sacrifice: Search your library for a card named Unwitting Sacrifice, reveal it, put it into your hand, then shuffle.</text>
-</card>
-<card>
- <name>CB05 — Skymarch Bloodletter</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Creature - Vampire Soldier </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Serrated Scorpion</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Scorpion </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Serrated Scorpion dies, Serrated Scorpion deals 2 damage to each opponent and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Watcher of the Knights</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Watcher of the Knights enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Doomed Dissenter</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Doomed Dissenter dies, create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Unwitting Sacrifice</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{B}, Sacrifice Unwitting Sacrifice: Search your library for a card named Unwitting Sacrifice, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Skymarch Bloodletter</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 When Skymarch Bloodletter enters the battlefield, target opponent loses 1 life and you gain 1 life.</text>
-</card>
-<card>
- <name>CB06 — Ragebringer</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Enchantment Creature - Icon Berserker </type>
- <pt>3/1</pt>
- <tablerow>2</tablerow>
- <text>When Ragebringer enters the battlefield, target creature gets +2/+0 and gains menace until end of turn. (It can’t be blocked except by two or more creatures.)</text>
-</card>
-<card>
- <name>CB07 — Demanding Patron</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>3B</manacost>
- <cmc>4</cmc>
- <type>Creature - Demon </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>When Demanding Patron enters the battlefield, up to one target creature gets -1/-1 until end of turn.</text>
-</card>
-<card>
- <name>CB08 — Deepskulker</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>2BB</manacost>
- <cmc>4</cmc>
- <type>Creature - Horror </type>
- <pt>3/2</pt>
- <tablerow>2</tablerow>
- <text>When Deepskulker dies, return target creature card with mana value 3 or less from your graveyard to your hand.</text>
-</card>
-<card>
- <name>CB09 — Dock Cutthroat</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>4B</manacost>
- <cmc>5</cmc>
- <type>Creature - Homarid Warrior </type>
- <pt>5/5</pt>
- <tablerow>2</tablerow>
- <text></text>
-</card>
-<card>
- <name>CB10 — Ashen Tormentor</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>4BB</manacost>
- <cmc>6</cmc>
- <type>Creature - Demon </type>
- <pt>4/4</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)</text>
-</card>
-<card>
- <name>CB12 — Merciless Evisceration</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>1BB</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Destroy target creature with mana value 3 or less.
+    </card>
+    <card>
+      <name>Ragebringer</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Icon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ragebringer enters the battlefield, target creature gets +2/+0 and gains menace until end of turn. (It can’t be blocked except by two or more creatures.)</text>
+    </card>
+    <card>
+      <name>Demanding Patron</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Demanding Patron enters the battlefield, up to one target creature gets -1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Deepskulker</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Deepskulker dies, return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Dock Cutthroat</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Homarid Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Ashen Tormentor</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3B: Ashen Tormentor gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Merciless Evisceration</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with mana value 3 or less.
 Target player mills three cards. (To mill a card, put the top card of your library into your graveyard.)</text>
-</card>
-<card>
- <name>CB15 — Blood Pact</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Target player draws two cards and loses 2 life.</text>
-</card>
-<card>
- <name>CB16 — Scornful Return</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>4B</manacost>
- <cmc>5</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Return target creature from your graveyard to the battlefield under your control. It gains haste until end of turn. (That creature can attack and T as soon as it comes under your control.)</text>
-</card>
-<card>
- <name>CB18 — Demonic Blessing</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+    </card>
+    <card>
+      <name>Blood Pact</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player draws two cards and loses 2 life.</text>
+    </card>
+    <card>
+      <name>Scornful Return</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature from your graveyard to the battlefield under your control. It gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)</text>
+    </card>
+    <card>
+      <name>Demonic Blessing</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 Enchanted creature gets +2/+2 and gains lifelink. (Damage dealt by this permanent also causes you to gain that much life.)</text>
-</card>
-<card>
- <name>CB19 — Altar's benediction</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>3B</manacost>
- <cmc>4</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>When Altar’s benediction enters the battlefield, target player mills two cards. (To mill a card, put the top card of your library into your graveyard.)
+    </card>
+    <card>
+      <name>Altar&apos;s Benediction</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Altar’s Benediction enters the battlefield, target player mills two cards. (To mill a card, put the top card of your library into your graveyard.)
 Whenever a nontoken creature dies, target player mills two cards and loses 1 life. This ability triggers only once each turn.</text>
-</card>
-<card>
- <name>CR01 — Magma Stoker</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type>Creature - Devil </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>When Magma Stoker enters the battlefield, it deals 1 damage to target player or planeswalker.</text>
-</card>
-<card>
- <name>CR02 — Ironclad Smelter</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Rogue </type>
- <pt>3/1</pt>
- <tablerow>2</tablerow>
- <text>As long as you have cast two or more spells this turn, Ironclad Smelter has first strike. (This creature deals combat damage before creatures without first strike.)</text>
-</card>
-<card>
- <name>CR03 — Fireforged Prophet</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Wizard </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Fireforged Prophet enters the battlefield, you may discard a card. If you do, draw a card.</text>
-</card>
-<card>
- <name>CR04 — Carver of Heretics</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Knight </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>Whenever Carver of Heretics attacks, target creature you control gets +1/+0 until end of turn.</text>
-</card>
-<card>
- <name>CR05 — Magma Elemental</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Creature - Elemental </type>
- <pt>3/2</pt>
- <tablerow>2</tablerow>
- <text>Menace (This creature can’t be blocked except by two or more creatures.)
+    </card>
+    <card>
+      <name>Magma Stoker</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Magma Stoker enters the battlefield, it deals 1 damage to target player or planeswalker.</text>
+    </card>
+    <card>
+      <name>Ironclad Smelter</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you’ve cast two or more spells this turn, Ironclad Smelter has first strike. (This creature deals combat damage before creatures without first strike.)</text>
+    </card>
+    <card>
+      <name>Fireforged Prophet</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fireforged Prophet enters the battlefield, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Carver of Heretics</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Carver of Heretics attacks, target creature you control gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Magma Elemental</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
 4R: Exile the top card of your library. Until the end of your next turn, you may play it.</text>
-</card>
-<card>
- <name>CR06 — Bellowing Frontliner</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>2RR</manacost>
- <cmc>4</cmc>
- <type>Creature - Demon Berserker </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-Haste (This creature can attack and T as soon as it comes under your control.)</text>
-</card>
-<card>
- <name>CR07 — Expulsion Elemental</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>2RR</manacost>
- <cmc>4</cmc>
- <type>Creature - Elemental </type>
- <pt>3/4</pt>
- <tablerow>2</tablerow>
- <text>T, Sacrifice Expulsion Elemental: Expulsion Elemental deals 1 damage to each creature. Activate only as a sorcery.</text>
-</card>
-<card>
- <name>CR08 — Hellswallower</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>3R</manacost>
- <cmc>4</cmc>
- <type>Artifact Creature - Lizard Construct </type>
- <pt>4/4</pt>
- <tablerow>2</tablerow>
- <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+    </card>
+    <card>
+      <name>Bellowing Frontliner</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    </card>
+    <card>
+      <name>Expulsion Elemental</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach (This creature can block creatures with flying.)</text>
+    </card>
+    <card>
+      <name>Hellswallower</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Lizard Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 Hellswallower can’t attack or block unless you control another creature with power 4 or greater.</text>
-</card>
-<card>
- <name>CR09 — Shoreside Watcher</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>3RR</manacost>
- <cmc>5</cmc>
- <type>Creature - Human Wizard </type>
- <pt>3/2</pt>
- <tablerow>2</tablerow>
- <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+    </card>
+    <card>
+      <name>Shoreside Watcher</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 When Shoreside Watcher enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
-</card>
-<card>
- <name>CR10 — Friend of the Drakes</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>4R</manacost>
- <cmc>5</cmc>
- <type>Creature - Azra Rogue </type>
- <pt>3/4</pt>
- <tablerow>2</tablerow>
- <text>Menace (This creature can’t be blocked except by two or more creatures.)
-When Friend of the Drakes enters the battlefield, target creature you control gains haste until end of turn. (That creature can attack and T as soon as it comes under your control.)</text>
-</card>
-<card>
- <name>CR12 — Dragon's Ire</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Dragon’s Ire deals 4 damage to target creature or planeswalker.</text>
-</card>
-<card>
- <name>CR13 — Battle Craze</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>3R</manacost>
- <cmc>4</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.  (That creature can attack and T as soon as it comes under your control.)
+    </card>
+    <card>
+      <name>Friend of the Drakes</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Azra Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+When Friend of the Drakes enters the battlefield, target creature you control gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)</text>
+    </card>
+    <card>
+      <name>Dragon&apos;s Ire</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Dragon’s Ire deals 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Battle Craze</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.  (That creature can attack and {T} as soon as it comes under your control.)
 Target creature gets +2/+0 until end of turn.</text>
-</card>
-<card>
- <name>CR14 — Flames of War</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>1RR</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Choose one—
+    </card>
+    <card>
+      <name>Flames of War</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
 • Destroy target nonbasic land.
 • Creatures you control get +1/+0 until end of turn.</text>
-</card>
-<card>
- <name>CR15 — Burning Triumph</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>3R</manacost>
- <cmc>4</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>This spell costs 2 less to cast if you’ve cast another spell this turn.
+    </card>
+    <card>
+      <name>Burning Triumph</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if you’ve cast another spell this turn.
 As an additional cost to cast this spell, discard a card.
 Draw two cards. Put two +1/+1 counters on up to one target creature you control.</text>
-</card>
-<card>
- <name>CR16 — Dragonslayer's Blade</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
- <type>Artifact - Equipment </type>
- <tablerow>1</tablerow>
- <text>Equipped creature gets +2/+0 and has menace. (That creature can’t be blocked except by two or more creatures.)
-Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)</text>
-</card>
-<card>
- <name>CR17 — Bloodrage</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Target creature gets +2/+0 and gains first strike until end of turn. (That creature deals combat damage before creatures without first strike.)</text>
-</card>
-<card>
- <name>CR18 — Jawbreak</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Choose one—
+    </card>
+    <card>
+      <name>Dragonslayer&apos;s Blade</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0 and has menace. (That creature can’t be blocked except by two or more creatures.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Bloodrage</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains first strike until end of turn. (That creature deals combat damage before creatures without first strike.)</text>
+    </card>
+    <card>
+      <name>Jawbreak</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
 • Jawbreak deals 1 damage to target creature. It can’t block until end of turn.
 • Destroy target artifact.</text>
-</card>
-<card>
- <name>CR19 — Demonic Oriflamme</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>Attacking creatures you control get +1/+0.</text>
-</card>
-<card>
- <name>CG01 — Shadowblade Champion</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type>Creature - Elf Warrior </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+    </card>
+    <card>
+      <name>Demonic Oriflamme</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Attacking creatures you control get +1/+0.</text>
+    </card>
+    <card>
+      <name>Shadowblade Champion</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Shadowblade Champion.</text>
-</card>
-<card>
- <name>CG02 — Druid of Ashes</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Creature - Elf Shaman </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>T, Mill a card: Add G. (To mill a card, put the top card of your library into your graveyard.)</text>
-</card>
-<card>
- <name>CG03 — Butterfly Shaman</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Creature - Bird Shaman </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Butterfly Shaman enters the battlefield, mill three cards, then you gain 1 life for each land card in your graveyard. (To mill a card, put the top card of your library into your graveyard.)</text>
-</card>
-<card>
- <name>CG04 — Tolek's Avenger</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>1GG</manacost>
- <cmc>3</cmc>
- <type>Creature - Demon Horror </type>
- <pt>3/2</pt>
- <tablerow>2</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
-When Tolek’s Avenger dies in combat, put a +1/+1 counter on target creature you control.</text>
-</card>
-<card>
- <name>CG05 — Skytree Brigade</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>2G</manacost>
- <cmc>3</cmc>
- <type>Creature - Elf Archer </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>Reach (This creature can block creatures with flying.)
+    </card>
+    <card>
+      <name>Druid of Ashes</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Mill a card: Add {G}. (To mill a card, put the top card of your library into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Butterfly Shaman</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Butterfly Shaman enters the battlefield, mill three cards, then you gain 1 life for each land card in your graveyard. (To mill a card, put the top card of your library into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Tolek&apos;s Avenger</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
+Whenever Tolek’s Avenger dies, if it was attacking or blocking, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Skytree Brigade</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Archer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach (This creature can block creatures with flying.)
 When Skytree Brigade enters or leaves the battlefield, create a 1/1 green Elf Soldier creature token.</text>
-</card>
-<card>
- <name>CG06 — Pack Bonder</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>2G</manacost>
- <cmc>3</cmc>
- <type>Creature - Human Shaman </type>
- <pt>2/3</pt>
- <tablerow>2</tablerow>
- <text>When Pack Bonder enters the battlefield, if you control a creature with power 4 or greater, put a +1/+1 counter on target creature.</text>
-</card>
-<card>
- <name>CG07 — Inspiring Royalty</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>3G</manacost>
- <cmc>4</cmc>
- <type>Creature - Elf Noble </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>When Inspiring Royalty enters the battlefield, creatures you control get +1/+1 until end of turn.</text>
-</card>
-<card>
- <name>CG08 — Sandyard Stalker</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>2GG</manacost>
- <cmc>4</cmc>
- <type>Creature - Cat </type>
- <pt>5/4</pt>
- <tablerow>2</tablerow>
- <text>Vigilance (Attacking doesn’t cause this creature to tap.)</text>
-</card>
-<card>
- <name>CG09 — Shadowborn Brothers</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>3GG</manacost>
- <cmc>5</cmc>
- <type>Creature - Demon </type>
- <pt>4/2</pt>
- <tablerow>2</tablerow>
- <text>When Shadowborn Brothers enters the battlefield, create a tapped 2/2 black Demon creature token.</text>
-</card>
-<card>
- <name>CG10 — Colossal Dreadmaw</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>4GG</manacost>
- <cmc>6</cmc>
- <type>Creature - Dinosaur </type>
- <pt>6/6</pt>
- <tablerow>2</tablerow>
- <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
-</card>
-<card>
- <name>CG11 — Fungal Grovetender</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>6G</manacost>
- <cmc>7</cmc>
- <type>Creature - Fungus </type>
- <pt>4/5</pt>
- <tablerow>2</tablerow>
- <text>This spells costs 1 less to cast for each creature you control.
+    </card>
+    <card>
+      <name>Pack Bonder</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pack Bonder enters the battlefield, if you control a creature with power 4 or greater, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Inspiring Royalty</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Inspiring Royalty enters the battlefield, creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Sandyard Stalker</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance (Attacking doesn’t cause this creature to tap.)</text>
+    </card>
+    <card>
+      <name>Shadowborn Brothers</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shadowborn Brothers enters the battlefield, create a tapped 2/2 black Demon creature token.</text>
+    </card>
+    <card>
+      <name>Colossal Dreadmaw</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+    </card>
+    <card>
+      <name>Fungal Grovetender</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spells costs {1} less to cast for each creature you control.
 When Fungal Grovetender enters the battlefield, return target creature card from your graveyard to your hand.</text>
-</card>
-<card>
- <name>CG13 — Hidden Strike</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Put a +1/+1 counter on target creature. It gains trample until end of turn. (That creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+    </card>
+    <card>
+      <name>Hidden Strike</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature. It gains trample until end of turn. (That creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 Draw a card.</text>
-</card>
-<card>
- <name>CG14 — Spirit Shield</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>3G</manacost>
- <cmc>4</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>This spell costs 1 less to cast if it targets a creature with power 3 or less.
+    </card>
+    <card>
+      <name>Spirit Shield</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a creature with power 3 or less.
 Target creature gets +3/+3 and gains hexproof until end of turn. (This permanent can’t be the target of spells or abilities your opponents control.)</text>
-</card>
-<card>
- <name>CG15 — Deathbloom</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Mill four cards, then put up to one creature or land card from among them into your hand. (To mill a card, put the top card of your library into your graveyard.)</text>
-</card>
-<card>
- <name>CG16 — Queen's Protection</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>4G</manacost>
- <cmc>5</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+    </card>
+    <card>
+      <name>Deathbloom</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill four cards, then put up to one creature or land card from among them into your hand. (To mill a card, put the top card of your library into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Queen&apos;s Protection</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 When Queen’s Protection enters the battlefield, create two 1/1 green Elf Soldier creature tokens.
 Enchanted creature gets +2/+2.</text>
-</card>
-<card>
- <name>CG17 — Run Afoul</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Target opponent sacrifices a creature with flying. (That creature can’t be blocked except by creatures with flying or reach.)</text>
-</card>
-<card>
- <name>CG18 — Worldtwist</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>2G</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.</text>
-</card>
-<card>
- <name>CG19 — Ayula's Dictate</name>
- <set rarity="">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Choose one—
-• Destroy target artifact or enchantment.
-• Create a 2/2 green Bear creature token.</text>
-</card>
-<card>
- <name>CA02 — Blade of a Lost Age</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost>3</manacost>
- <cmc>3</cmc>
- <type>Artifact Creature - Knight </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>When Blade of a Lost Age enters the battlefield, choose one—
+    </card>
+    <card>
+      <name>Run Afoul</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent sacrifices a creature with flying.</text>
+    </card>
+    <card>
+      <name>Worldtwist</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Blade of a Lost Age</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blade of a Lost Age enters the battlefield, choose one—
 • Draw a card.
 • Put a +1/+1 counter on Blade of a Lost Age.</text>
-</card>
-<card>
- <name>CA03 — Reawakened Drone</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost>6</manacost>
- <cmc>6</cmc>
- <type>Artifact Creature - Scout </type>
- <pt>4/4</pt>
- <tablerow>2</tablerow>
- <text>This spell costs 1 less to cast if you control no creatures.
-Reach (This creature can block creatures with flying.)
-Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)</text>
-</card>
-<card>
- <name>CA04 — Titanslayer Axe</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost>1</manacost>
- <cmc>1</cmc>
- <type>Artifact - Equipment </type>
- <tablerow>1</tablerow>
- <text>Equipped creature gets +2/+0.
-Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
-</card>
-<card>
- <name>CA06 — Alien Crystal</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost>2</manacost>
- <cmc>2</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>Alien Crystal enters the battlefield tapped. When it does, scry 1.
-T: Add C.</text>
-</card>
-<card>
- <name>UW01 — Avenging Knight</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Creature - Human Knight </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>Vigilance (Attacking doesn’t cause this creature to tap.)
-Avenging Knight can’t block unless you have a creature card in your graveyard.</text>
-</card>
-<card>
- <name>UW02 — Garrison Chef</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Soldier </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Kicker 2W (You may pay an additional 2W as you cast this spell.)
+    </card>
+    <card>
+      <name>Reawakened Drone</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, ward {2} (This creature can block creatures with flying. Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+    </card>
+    <card>
+      <name>Titanslayer Axe</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Alien Crystal</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Alien Crystal enters the battlefield, draw a card.
+{2}, {T}, Sacrifice Alien Crystal: Draw a card.</text>
+    </card>
+    <card>
+      <name>Avenging Knight</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Avenging Knight can’t attack or block alone.</text>
+    </card>
+    <card>
+      <name>Garrison Chef</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker 2W (You may pay an additional 2W as you cast this spell.)
 When Garrison Chef enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens.
 Whenever another creature enters the battlefield under your control, you gain 1 life.</text>
-</card>
-<card>
- <name>UW03 — Seasoned Duelist</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>WW</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Knight </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Vigilance (Attacking doesn’t cause this creature to tap.)
+    </card>
+    <card>
+      <name>Seasoned Duelist</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance (Attacking doesn’t cause this creature to tap.)
 As long as it’s your turn, Seasoned Duelist has first strike. (This creature deals combat damage before creatures without first strike.)</text>
-</card>
-<card>
- <name>UW05 — Miriam's Purifier</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>2WW</manacost>
- <cmc>4</cmc>
- <type>Creature - Elf Wizard </type>
- <pt>3/2</pt>
- <tablerow>2</tablerow>
- <text>When Miriam’s Purifier enters the battlefield, you may exile another target creature until Miriam’s Purifier leaves the battlefield.</text>
-</card>
-<card>
- <name>UW07 — Herald of the Masses</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>1WW</manacost>
- <cmc>3</cmc>
- <type>Creature - Human Soldier </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Creature tokens you control get +1/+1</text>
-</card>
-<card>
- <name>UW08 — Last Line</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>5W</manacost>
- <cmc>6</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Create four 1/1 white Soldier creature tokens.</text>
-</card>
-<card>
- <name>UW09 — Spiritual Substitute</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Exile target creature or planeswalker an opponent controls. Its controller may search their library for a creature card with a different name, reveal it, and put it into their hand. If they do, they shuffle and you draw a card.</text>
-</card>
-<card>
- <name>UW11 — Battle Mastery</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Enchant creature
+    </card>
+    <card>
+      <name>Miriam&apos;s Purifier</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Miriam’s Purifier enters the battlefield, you may exile another target creature until Miriam’s Purifier leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Herald of the Masses</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creature tokens you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Last Line</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create four 1/1 white Soldier creature tokens.</text>
+    </card>
+    <card>
+      <name>Spiritual Substitute</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or planeswalker an opponent controls. Its controller may search their library for a creature card with a different name, reveal it, and put it into their hand. If they do, they shuffle and you draw a card.</text>
+    </card>
+    <card>
+      <name>Battle Mastery</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
 Enchanted creature has double strike. (That creature deals both first-strike and regular combat damage.)</text>
-</card>
-<card>
- <name>UU01 — Possessed Tome</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type>Creature - Spirit Construct </type>
- <pt>0/1</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Possessed Tome</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 Whenever you draw a card, Possessed Tome gets +1/+0 until end of turn.</text>
-</card>
-<card>
- <name>UU02 — Nerisal Conspirator</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Creature - Merfolk Rogue </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
+    </card>
+    <card>
+      <name>Nerisal Conspirator</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
 Whenever you cast your second spell each turn, put a +1/+1 counter on Nerisal Conspirator.</text>
-</card>
-<card>
- <name>UU04 — Sorcerer of Thele</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>2UU</manacost>
- <cmc>4</cmc>
- <type>Creature - Elf Wizard </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>This spell costs 2 less to cast if you’ve cast a spell this turn.
+    </card>
+    <card>
+      <name>Sorcerer of Thele</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast if you’ve cast a spell this turn.
 Flash (You may cast this spell any time you could cast an instant.)
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-</card>
-<card>
- <name>UU05 — Domineering Sphinx</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>3UU</manacost>
- <cmc>5</cmc>
- <type>Creature - Sphinx </type>
- <pt>4/2</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Domineering Sphinx</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 When Domineering Sphinx enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap for as long as you control Domineering Sphinx.</text>
-</card>
-<card>
- <name>UU06 — Phantasmal Dragon</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>2UU</manacost>
- <cmc>4</cmc>
- <type>Creature - Dragon Illusion </type>
- <pt>5/5</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Phantasmal Dragon</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.</text>
-</card>
-<card>
- <name>UU07 — Wayfaring Geist</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>1UU</manacost>
- <cmc>3</cmc>
- <type>Creature - Spirit </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+    </card>
+    <card>
+      <name>Wayfaring Geist</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Wayfaring Geist can’t be blocked.</text>
-</card>
-<card>
- <name>UU08 — Mind Bond</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>4UU</manacost>
- <cmc>6</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Target player mills six cards. You draw four cards. (To mill a card, put the top card of your library into your graveyard.)</text>
-</card>
-<card>
- <name>UU09 — Remove Insignificance</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>3UU</manacost>
- <cmc>5</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Choose one—
+    </card>
+    <card>
+      <name>Mind Bond</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player mills six cards. You draw four cards. (To mill a card, put the top card of your library into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Remove Insignificance</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
 • Counter target spell.
 • Draw two cards.</text>
-</card>
-<card>
- <name>UU10 — Icy Armor</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Tap target creature. If you control that creature, put a +1/+1 counter on it and it gains hexproof until end of turn. (This permanent can’t be the target of spells or abilities your opponents control.)</text>
-</card>
-<card>
- <name>UU11 — Ethereal Chains</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
+    </card>
+    <card>
+      <name>Icy Armor</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. If you control that creature, put a +1/+1 counter on it and it gains hexproof until end of turn. (This permanent can’t be the target of spells or abilities your opponents control.)</text>
+    </card>
+    <card>
+      <name>Ethereal Chains</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
 Enchant red or green creature
 When Ethereal Chains enters the battlefield, tap enchanted creature.
 Enchanted creature doesn’t untap during its controller’s untap step.</text>
-</card>
-<card>
- <name>UB01 — Dungeon Nibbler</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type>Creature - Rat Warrior </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+    </card>
+    <card>
+      <name>Dungeon Nibbler</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 1BB, Exile Dungeon Nibbler from your graveyard: Return another target creature card from your graveyard to your hand. Activate only as a sorcery.</text>
-</card>
-<card>
- <name>UB03 — Blood Inspector</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>1BB</manacost>
- <cmc>3</cmc>
- <type>Creature - Zombie Wizard </type>
- <pt>1/3</pt>
- <tablerow>2</tablerow>
- <text>Sacrifice a creature: Draw a card. Activate only as a sorcery and only once each turn.</text>
-</card>
-<card>
- <name>UB04 — Austere Matriarch</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>3B</manacost>
- <cmc>4</cmc>
- <type>Creature - Vampire Noble </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Menace (This creature can’t be blocked except by two or more creatures.)
+    </card>
+    <card>
+      <name>Blood Inspector</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Draw a card. Activate only as a sorcery and only once each turn.</text>
+    </card>
+    <card>
+      <name>Austere Matriarch</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
 Whenever you gain life, put a +1/+1 counter on Austere Matriarch.</text>
-</card>
-<card>
- <name>UB06 — Silversmote Ghoul</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Creature - Zombie Vampire </type>
- <pt>3/1</pt>
- <tablerow>2</tablerow>
- <text>At the beginning of your end step, if you gained 3 or more life this turn, return Silversmote Ghoul from your graveyard to the battlefield tapped.
+    </card>
+    <card>
+      <name>Silversmote Ghoul</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you gained 3 or more life this turn, return Silversmote Ghoul from your graveyard to the battlefield tapped.
 1B, Sacrifice Silversmote Ghoul: Draw a card.</text>
-</card>
-<card>
- <name>UB05 — Drake of the Lurking Spire</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>4B</manacost>
- <cmc>5</cmc>
- <type>Creature - Drake </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Drake of the Lurking Spire</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 Whenever another creature enters the battlefield under your control, each opponent loses 1 life.</text>
-</card>
-<card>
- <name>UB07 — Living Remains</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>2BB</manacost>
- <cmc>4</cmc>
- <type>Creature - Zombie Elk </type>
- <pt>7/6</pt>
- <tablerow>2</tablerow>
- <text>When Living Remains enters the battlefield, sacrifice a creature.</text>
-</card>
-<card>
- <name>UB09 — Cry of the Carnarium</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>1BB</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>All creatures get -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead.</text>
-</card>
-<card>
- <name>UB11 — Rot Away</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Target opponent reveals their hand. You choose a green or white card from it. That player discards it.</text>
-</card>
-<card>
- <name>UR01 — Lifeblood Broker</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type>Creature - Vampire Warlock </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>When Lifeblood Broker enters the battlefield, exile the top card of your library. You may play it this turn.</text>
-</card>
-<card>
- <name>UR03 — Flamedancer Monk</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Creature - Human Monk </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>T, Sacrifice Flamedancer Monk: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
-</card>
-<card>
- <name>UR04 — Instability Elemental</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>3R</manacost>
- <cmc>4</cmc>
- <type>Creature - Elemental </type>
- <pt>5/3</pt>
- <tablerow>2</tablerow>
- <text>Trample, haste (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+    </card>
+    <card>
+      <name>Living Remains</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Elk </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Living Remains enters the battlefield, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Cry of the Carnarium</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Rot Away</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a green or white card from it. That player discards it.</text>
+    </card>
+    <card>
+      <name>Lifeblood Broker</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lifeblood Broker enters the battlefield, exile the top card of your library. You may play it this turn.</text>
+    </card>
+    <card>
+      <name>Flamedancer Monk</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice Flamedancer Monk: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Instability Elemental</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 At the end of combat, if Instability Elemental attacked or blocked this turn, sacrifice it unless you discard a card.</text>
-</card>
-<card>
- <name>UR05 — Earthquake Progenitor</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>5R</manacost>
- <cmc>6</cmc>
- <type>Creature - Wurm </type>
- <pt>4/4</pt>
- <tablerow>2</tablerow>
- <text>Haste, trample
+    </card>
+    <card>
+      <name>Earthquake Progenitor</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, trample
 Whenever Earthquake Progenitor enters the battlefield or attacks, up to one target creature creature can’t block this turn.</text>
-</card>
-<card>
- <name>UR06 — Ebonhorn Charger</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>4R</manacost>
- <cmc>5</cmc>
- <type>Creature - Elemental Beast </type>
- <pt>4/3</pt>
- <tablerow>2</tablerow>
- <text>This spell costs 1 less to cast for each spell you’ve cast this turn.
-Haste (This creature can attack and T as soon as it comes under your control.)</text>
-</card>
-<card>
- <name>UR07 — Combusting Packleader</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>3RR</manacost>
- <cmc>5</cmc>
- <type>Creature - Elemental Cat </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Whenever Combusting Packleader attacks, creatures you control with power 2 or less get +1/+0 until end of turn.</text>
-</card>
-<card>
- <name>UR08 — Impish Ploy</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Create a 2/1 red Devil creature token. When you do, target creature you control deals damage equal to its power to target creature you don’t control.</text>
-</card>
-<card>
- <name>UR09 — Scattersnipe</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>4R</manacost>
- <cmc>5</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>When you cast this spell, copy it three times. You may choose new targets for the copies.
+    </card>
+    <card>
+      <name>Ebonhorn Charger</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each spell you’ve cast this turn.
+Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    </card>
+    <card>
+      <name>Combusting Packleader</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Combusting Packleader attacks, creatures you control with power 2 or less get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Impish Ploy</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 2/1 red Devil creature token. When you do, target creature you control deals damage equal to its power to target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Scattersnipe</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast this spell, copy it three times. You may choose new targets for the copies.
 Scattersnipe deals 1 damage to any target.</text>
-</card>
-<card>
- <name>UR11 — Glory in Battle</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>Whenever a creature you control dies, Glory in Battle deals 1 damage to target player. If that creature was attacking, Glory in Battle deals 2 damage to that player instead.</text>
-</card>
-<card>
- <name>UG01 — Companion of Might</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type>Creature - Centar Druid </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>1, T: Add one mana of any color. This ability costs 1 less to activate as long as you control a creature with power 4 or greater.</text>
-</card>
-<card>
- <name>UG02 — Greater Bondbeetle</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Creature - Insect </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>Greater Bondbeetle enters the battlefield with a +1/+1 counter on it.
-T: Move a counter from Greater Bondbeetle onto target creature. 
+    </card>
+    <card>
+      <name>Glory in Battle</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, Glory in Battle deals 1 damage to target player. If that creature was attacking, Glory in Battle deals 2 damage to that player instead.</text>
+    </card>
+    <card>
+      <name>Companion of Might</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Centar Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Add one mana of any color. This ability costs {1} less to activate as long as you control a creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Greater Bondbeetle</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Greater Bondbeetle enters the battlefield with a +1/+1 counter on it.
+{T}: Move a counter from Greater Bondbeetle onto target creature. 
 3G: Put a +1/+1 counter on Greater Bondbeetle</text>
-</card>
-<card>
- <name>UG03 — Shimmerlings</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>2G</manacost>
- <cmc>3</cmc>
- <type>Creature - Illusion Beast </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>At the beginning of your upkeep, if you don’t control any other Beasts, you may pay 1G, if you do create a 3/3 green Beast creature token.</text>
-</card>
-<card>
- <name>UG04 — Beastbinder</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>3G</manacost>
- <cmc>4</cmc>
- <type>Creature - Elf </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>As Beastbinder enters the battlefield, choose a creature type.
+    </card>
+    <card>
+      <name>Shimmerlings</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Illusion Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, if you don’t control any other Beasts, you may pay 1G, if you do create a 3/3 green Beast creature token.</text>
+    </card>
+    <card>
+      <name>Beastbinder</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Beastbinder enters the battlefield, choose a creature type.
 Other Elves and creatures of the chosen type get +1/+1</text>
-</card>
-<card>
- <name>UG05 — Decaybound Goliath</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>3GG</manacost>
- <cmc>5</cmc>
- <type>Creature - Insect </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+    </card>
+    <card>
+      <name>Decaybound Goliath</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 Whenever Decaybound Goliath attacks, it gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.</text>
-</card>
-<card>
- <name>UG06 — Oakwood Sentinel</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>5GG</manacost>
- <cmc>7</cmc>
- <type>Creature - Elemental </type>
- <pt>5/5</pt>
- <tablerow>2</tablerow>
- <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+    </card>
+    <card>
+      <name>Oakwood Sentinel</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 When Oakwood Sentinel enters the battlefield, distribute two +1/+1 counters among up to two target creatures you control.</text>
-</card>
-<card>
- <name>UG07 — Cobbleshell Familiar</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Creature - Crab Elemental </type>
- <pt>3/1</pt>
- <tablerow>2</tablerow>
- <text>When Cobbleshell Familiar dies, if its power was 4 or greater, draw a card.</text>
-</card>
-<card>
- <name>UG08 — Lumbering Magebane</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>3G</manacost>
- <cmc>4</cmc>
- <type>Creature - Elemental </type>
- <pt>4/2</pt>
- <tablerow>2</tablerow>
- <text>This spell can’t be countered.
+    </card>
+    <card>
+      <name>Cobbleshell Familiar</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Crab Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cobbleshell Familiar dies, if its power was 4 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>Lumbering Magebane</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell can’t be countered.
 Vigilance, trample
 Hexproof from blue and black (This creature can’t be the target of blue and black spells or abilities your opponents control.)</text>
-</card>
-<card>
- <name>UG09 — Groveseeking</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Choose one —
+    </card>
+    <card>
+      <name>Groveseeking</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
 • Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 • Create two 1/1 green Elf Soldier creature tokens.</text>
-</card>
-<card>
- <name>UG11 — Raise the Meek</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>2G</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Return target card from your graveyard to your hand. If you returned a card with mana value 3 or less, you gain 4 life.</text>
-</card>
-<card>
- <name>UW12 — Inquisitor's Inspection</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Exile target creature or planeswalker that’s black or red. You create a 1/1 red Survivor creature token.</text>
-</card>
-<card>
- <name>UU12 — Otherworldly Mechanism</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>3U</manacost>
- <cmc>4</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>Otherworldly Mechanism enters the battlefield with X charge counters on it, where X is the number of instant and sorcery cards in your graveyard.
-1, T, Remove a charge counter from Otherworldly Mechanism: Tap target creature.
-2, T, Sacrifice Otherworldly Mechanism: Draw a card.</text>
-</card>
-<card>
- <name>UB12 — Go Blank</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Target player discards two cards. Exile that player’s graveyard.</text>
-</card>
-<card>
- <name>UR12 — Heat of the Forge</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>1RR</manacost>
- <cmc>3</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>When Heat of the Forge enters the battlefield, draw a card.
+    </card>
+    <card>
+      <name>Raise the Meek</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target card from your graveyard to your hand. If you returned a card with mana value 3 or less, you gain 4 life.</text>
+    </card>
+    <card>
+      <name>Inquisitor&apos;s Inspection</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or planeswalker that’s black or red. You create a 1/1 red Survivor creature token.</text>
+    </card>
+    <card>
+      <name>Otherworldly Mechanism</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Otherworldly Mechanism enters the battlefield with X charge counters on it, where X is the number of instant and sorcery cards in your graveyard.
+{1}, {T}, Remove a charge counter from Otherworldly Mechanism: Tap target creature.
+{2}, {T}, Sacrifice Otherworldly Mechanism: Draw a card.</text>
+    </card>
+    <card>
+      <name>Go Blank</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards. Exile that player’s graveyard.</text>
+    </card>
+    <card>
+      <name>Heat of the Forge</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Heat of the Forge enters the battlefield, draw a card.
 If a red noncreature source you control would deal damage, it deals that much damage plus 1 instead.</text>
-</card>
-<card>
- <name>UG12 — Bone Meal</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>4G</manacost>
- <cmc>5</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Draw a card for each creature card in your graveyard.</text>
-</card>
-<card>
- <name>UA06 — Castaway's Monument</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>3</manacost>
- <cmc>3</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>T: Add one mana of any color.
-X: Castaway’s Monument becomes a X/X Elemental Soldier creature with vigilance until end of turn. Activate only as a sorcery.</text>
-</card>
-<card>
- <name>UA07 — Wurmscale Amber</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>2</manacost>
- <cmc>2</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>T: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
-6, T: Put a +1/+1 counter on target creature. This ability costs 1 less for each creature card in your graveyard. Activate only as a sorcery.</text>
-</card>
-<card>
- <name>UA08 — Bag of Scrap</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>3</manacost>
- <cmc>3</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>Bag of Scrap enters the battlefield with three scrap counters.
-2, T, Remove a scrap counter from Bag of Scrap: Choose one. Activate only as a sorcery,
+    </card>
+    <card>
+      <name>Bone Meal</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each creature card in your graveyard.</text>
+    </card>
+    <card>
+      <name>Castaway&apos;s Monument</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{X}: Castaway’s Monument becomes a X/X Elemental Soldier creature with vigilance until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Wurmscale Amber</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+{6}, {T}: Put a +1/+1 counter on target creature. This ability costs {1} less for each creature card in your graveyard. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Bag of Scrap</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Bag of Scrap enters the battlefield with three scrap counters.
+{2}, {T}, Remove a scrap counter from Bag of Scrap: Choose one. Activate only as a sorcery,
 • Put target card with mana value 3 or less from your graveyard on top of your library.
-• Tap target creature with mana value 3 or less. Put a stun counter on it.</text>
-</card>
-<card>
- <name>UA09 — Cerebral Stimulator</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>3</manacost>
- <cmc>3</cmc>
- <type>Artifact - Equipment </type>
- <tablerow>1</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
+• Tap target creature with mana value 3 or less. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Cerebral Stimulator</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
 When Cerebral Stimulator enters the battlefield, attach it to target creature.
 Equipped creature gets +2/-2.
-Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
-</card>
-<card>
- <name>UA10 — Hell-Brewed Elixir</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>2</manacost>
- <cmc>2</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>When Hell-Brewed Elixir enters or leaves the battlefield, exile the top two cards of your library. Until end of turn you may cast an instant or sorcery card from among them.
-2, T, Sacrifice Hell-Brewed Elixir: Target player loses 2 life.</text>
-</card>
-<card>
- <name>UA01 — Gravestone Guardian</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>2</manacost>
- <cmc>2</cmc>
- <type>Artifact Creature - Construct </type>
- <pt>1/3</pt>
- <tablerow>2</tablerow>
- <text>Sacrifice Gravestone Guardian: Exile all graveyards.</text>
-</card>
-<card>
- <name>UA02 — Solemn Simulacrum</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>4</manacost>
- <cmc>4</cmc>
- <type>Artifact Creature - Golem </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Hell-Brewed Elixir</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Hell-Brewed Elixir enters or leaves the battlefield, exile the top two cards of your library. Until end of turn you may cast an instant or sorcery card from among them.
+{2}, {T}, Sacrifice Hell-Brewed Elixir: Target player loses 2 life.</text>
+    </card>
+    <card>
+      <name>Gravestone Guardian</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Gravestone Guardian: Exile all graveyards.</text>
+    </card>
+    <card>
+      <name>Solemn Simulacrum</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 When Solemn Simulacrum dies, you may draw a card.</text>
-</card>
-<card>
- <name>UA03 — Roaming Gatecrasher</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>6</manacost>
- <cmc>6</cmc>
- <type>Artifact - Vehicle </type>
- <tablerow>1</tablerow>
- <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+    </card>
+    <card>
+      <name>Roaming Gatecrasher</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 When Roaming Gatecrasher enters the battlefield, destroy target nonland permanent with mana value 4 or less.
 Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
-</card>
-<card>
- <name>UA04 — Voltaic Amulet</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>XX</manacost>
- <cmc>0</cmc>
- <type>Artifact - Equipment </type>
- <tablerow>1</tablerow>
- <text>Voltaic Amulet enters the battlefield with X charge counters.
+    </card>
+    <card>
+      <name>Voltaic Amulet</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>XX</manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Voltaic Amulet enters the battlefield with X charge counters.
 Equipped creature gets +1/+1 for each charge counter on Voltaic Amulet.
-Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
-</card>
-<card>
- <name>UA05 — Gemseeker Gear</name>
- <set rarity="uncommon">PCS</set>
- <color></color>
- <manacost>4</manacost>
- <cmc>4</cmc>
- <type>Artifact - Equipment </type>
- <tablerow>1</tablerow>
- <text>Equipped creature has base power and toughness 4/4.
-Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
-</card>
-<card>
- <name>RW01</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW04</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW05</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW06</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW07</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU02</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU03</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU04</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU05</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU06</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU07</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB01</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB04</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB05</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB06</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB07</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR01</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR02</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR03</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR05</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR06</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR07</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG01</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG02</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG03</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG04 — Flowering Dead</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>3G</manacost>
- <cmc>4</cmc>
- <type>Creature - Plant Zombie </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Deathtouch
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Gemseeker Gear</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has base power and toughness 4/4.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Flowering Dead</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Plant Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
 At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, return Flowering Dead from your graveyard to your hand.</text>
-</card>
-<card>
- <name>RG05</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG06</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG07</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW08</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU08</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB08</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR08</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG08</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW09</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU09</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB09</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RR09</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RG09</name>
- <set rarity="rare">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA01</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA02</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA03</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA04</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA05</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA06</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA07</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RA08</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MW02</name>
- <set rarity="mythic">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MU01</name>
- <set rarity="mythic">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MU02</name>
- <set rarity="mythic">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MB01</name>
- <set rarity="mythic">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MB02</name>
- <set rarity="mythic">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MG01 — Tolek, Who Bargains with Life</name>
- <set rarity="mythic">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type>Legendary Planeswalker - Tolek </type>
- <tablerow>1</tablerow>
- <text>​
-
-</text>
-</card>
-<card>
- <name>MG02</name>
- <set rarity="mythic">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MA01</name>
- <set rarity="mythic">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MA02</name>
- <set rarity="mythic">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MA03</name>
- <set rarity="mythic">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MA04</name>
- <set rarity="mythic">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>CW01 — Flourishing Flock</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Creature - Bird </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Flourishing Flock</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 1W: Flourishing Flock gets +1/+1 until end of turn. Activate only if you control three or more other creatures.</text>
-</card>
-<card>
- <name>CW02 — Herald of Patience</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Creature - Human Monk </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>When Herald of Patience enters the battlefield, scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
-</card>
-<card>
- <name>CW05 — Frostbite Trapper</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Scout </type>
- <pt>1/3</pt>
- <tablerow>2</tablerow>
- <text>Vigilance (Attacking doesn’t cause this creature to tap.)
-2W, T: Tap target creature.</text>
-</card>
-<card>
- <name>CW04 — Field Medic</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Cleric </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
-</card>
-<card>
- <name>CW07 — Glorious Lightbringer</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Creature - Elk Spirit </type>
- <pt>3/2</pt>
- <tablerow>2</tablerow>
- <text>Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)</text>
-</card>
-<card>
- <name>UW04 — Extraction Baron</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Creature - Bird Noble </type>
- <pt>3/4</pt>
- <tablerow>2</tablerow>
- <text>You may cast this spell as though it had flash if you pay 2 more to cast it.
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Herald of Patience</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Herald of Patience enters the battlefield, scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
+    </card>
+    <card>
+      <name>Frostbite Trapper</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance (Attacking doesn’t cause this creature to tap.)
+2W, {T}: Tap target creature.</text>
+    </card>
+    <card>
+      <name>Field Medic</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
+    </card>
+    <card>
+      <name>Glorious Lightbringer</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>Extraction Baron</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 When Extraction Baron enters the battlefield, return a permanent you control to its owner’s hand.</text>
-</card>
-<card>
- <name>UB02 — Mangy Unhallowed</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Creature - Zombie Dog </type>
- <pt>3/1</pt>
- <tablerow>2</tablerow>
- <text>Whenever an attacking creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
-</card>
-<card>
- <name>RR04 — Hadanu's Command</name>
- <set rarity="">PCS</set>
- <color>R</color>
- <manacost>1RR</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Choose two—
+    </card>
+    <card>
+      <name>Mangy Unhallowed</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an attacking creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Hadanu&apos;s Command</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two—
 • Create a 2/2 red Orc creature token.
 • Hadanu’s Command deals 2 damage to any target.
 • Exile the top card of your library. You may play it this turn.
-• Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. (That creature can attack and T as soon as it comes under your control.)</text>
-</card>
-<card>
- <name>UW10 — Stalwart Opposition</name>
- <set rarity="">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Counter target spell unless its controller pays 2. If they do, create two 1/1 white Soldier creature tokens and scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
-</card>
-<card>
- <name>CU01 — Mageknight Adept</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Creature - Human Knight Wizard </type>
- <pt>1/3</pt>
- <tablerow>2</tablerow>
- <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-</card>
-<card>
- <name>UM03 — Hero of the Nyxborn</name>
- <set rarity="uncommon">PCS</set>
- <color>WR</color>
- <manacost>1RW</manacost>
- <cmc>3</cmc>
- <type>Enchantment Creature - Human Soldier </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Hero of the Nyxborn enters the battlefield, create a 1/1 white Human Soldier creature token.
+• Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Stalwart Opposition</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all damage that would be dealt to you and creatures you control this turn.</text>
+    </card>
+    <card>
+      <name>Mageknight Adept</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Hero of the Nyxborn</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hero of the Nyxborn enters the battlefield, create a 1/1 white Human Soldier creature token.
 Whenever you cast a spell that targets Hero of the Nyxborn, creatures you control get +1/+0 until end of turn.</text>
-</card>
-<card>
- <name>UM05 — Unx Archivist</name>
- <set rarity="uncommon">PCS</set>
- <color>UB</color>
- <manacost>2UB</manacost>
- <cmc>4</cmc>
- <type>Creature - Zombie Wizard </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)
+    </card>
+    <card>
+      <name>Unx Archivist</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Whenever Unx Archivist enters the battlefield or deals combat damage to a player, draw a card.</text>
-</card>
-<card>
- <name>UM06 — Beskir Ravenspeaker</name>
- <set rarity="uncommon">PCS</set>
- <color>UR</color>
- <manacost>1UR</manacost>
- <cmc>3</cmc>
- <type>Creature - Human Shaman </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>When Beskir Ravenspeaker enters the battlefield, create a 1/1 black Bird creature token with flying. (It can’t be blocked except by creatures with flying or reach.)
-Whenever you cast an instant or sorcery spell during your turn, target creature you control gets +1/+1 and gains haste until end of turn. (It can attack and T as soon as it comes under your control.)</text>
-</card>
-<card>
- <name>UM07 — Riverwise Explorer</name>
- <set rarity="uncommon">PCS</set>
- <color>UG</color>
- <manacost>3GU</manacost>
- <cmc>5</cmc>
- <type>Creature - Merfolk Ranger Scout </type>
- <pt>3/4</pt>
- <tablerow>2</tablerow>
- <text>Vigilance (Attacking doesn’t cause this creature to tap.)
+    </card>
+    <card>
+      <name>Beskir Ravenspeaker</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Beskir Ravenspeaker enters the battlefield, create a 1/1 black Bird creature token with flying. (It can’t be blocked except by creatures with flying or reach.)
+Whenever you cast an instant or sorcery spell during your turn, target creature you control gets +1/+1 and gains haste until end of turn. (It can attack and {T} as soon as it comes under your control.)</text>
+    </card>
+    <card>
+      <name>Riverwise Explorer</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Merfolk Ranger Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance (Attacking doesn’t cause this creature to tap.)
 When Riverwise Explorer enters the battlefield, you gain 3 life, scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
-</card>
-<card>
- <name>CA05 — Urn of Godfire</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost>1</manacost>
- <cmc>1</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>2: Add one mana of any color.
-6, T, Sacrifice Urn of Godfire: Destroy target creature or enchantment.</text>
-</card>
-<card>
- <name>UB10 — Hideous Reciprocity</name>
- <set rarity="">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>As an additional cost to cast this spell, you may sacrifice a creature.
+    </card>
+    <card>
+      <name>Urn of Godfire</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}: Add one mana of any color.
+{6}, {T}, Sacrifice Urn of Godfire: Destroy target creature or enchantment.</text>
+    </card>
+    <card>
+      <name>Hideous Reciprocity</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice a creature.
 Destroy target creature if a creature died this turn.</text>
-</card>
-<card>
- <name>RB02 — Vexwisher</name>
- <set rarity="">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Creature - Azra Warlock </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>Menace (This creature can’t be blocked except by two or more creatures.)
+    </card>
+    <card>
+      <name>Vexwisher</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
 Whenever Vexwisher deals combat damage to a player, if you’ve discarded a card this turn, that player discards a card.</text>
-</card>
-<card>
- <name>UL01 — Encroaching Bloomland</name>
- <set rarity="">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Encroaching Bloomland enters the battlefield tapped.
-As Encroaching Bloomland enters the battlefield, choose a basic land type.
-Nonbasic lands you control are lands of the chosen type in addition to their other land types.</text>
-</card>
-<card>
- <name>MA05</name>
- <set rarity="mythic">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>MW01</name>
- <set rarity="mythic">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>UM08 — Dire Fleet Marauder</name>
- <set rarity="uncommon">PCS</set>
- <color>BR</color>
- <manacost>2BR</manacost>
- <cmc>4</cmc>
- <type>Creature - Orc Pirate </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>Haste (This creature can attack and T as soon as it comes under your control.)
+    </card>
+    <card>
+      <name>Dire Fleet Marauder</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Orc Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 Whenever Dire Fleet Marauder or another creature enters the battlefield under your control, that creature gets +2/+0 until end of turn.
 BR: Target creature gains haste until end of turn.</text>
-</card>
-<card>
- <name>UW06 — Stirring Commander</name>
- <set rarity="">PCS</set>
- <color>W</color>
- <manacost>3WW</manacost>
- <cmc>5</cmc>
- <type>Creature - Human Warrior </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Whenever Stirring Commander attacks, put a +1/+1 counter on each creature token you control, then nontoken creatures you control get +1/+1 until end of turn.</text>
-</card>
-<card>
- <name>UG10 — Memories of Morale</name>
- <set rarity="uncommon">PCS</set>
- <color>G</color>
- <manacost>3G</manacost>
- <cmc>4</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Put a +1/+1 counter on each of up to two target creatures you control. Then, draw a card if you control a creature with power 4 or greater.
+    </card>
+    <card>
+      <name>Stirring Commander</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance (Attacking doesn’t cause this creature to tap.)
+Whenever Stirring Commander attacks, put a +1/+1 counter on each creature token you control, then other nontoken creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Memories of Morale</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each of up to two target creatures you control. Then, draw a card if you control a creature with power 4 or greater.
 Flashback 1G (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-</card>
-<card>
- <name>UR10 — Fry</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>This spell can’t be countered.
+    </card>
+    <card>
+      <name>Fry</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
 Fry deals 5 damage to target creature or planeswalker that’s white or blue.</text>
-</card>
-<card>
- <name>UR02 — Devilish Arsonist</name>
- <set rarity="uncommon">PCS</set>
- <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
- <type>Creature - Devil </type>
- <pt>1/2</pt>
- <tablerow>2</tablerow>
- <text>Whenever Devilish Arsonist attacks, it deals 1 damage to up to one target player or planeswalker.</text>
-</card>
-<card>
- <name>RR04</name>
- <set rarity="rare">PCS</set>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>UB10 — Deadly Dispute</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
-Draw two cards and create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
-</card>
-<card>
- <name>RB03 — zombie lord maybe</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RB02</name>
- <set rarity="rare">PCS</set>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RU01</name>
- <set rarity="rare">PCS</set>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>UW10 — Moment of Glory</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Target creature you control gains indestructible and flying until end of turn. (Effects that say “destroy” don’t destroy that permanent and it can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Devilish Arsonist</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Devilish Arsonist attacks, it deals 1 damage to up to one target player or planeswalker.</text>
+    </card>
+    <card>
+      <name>Deadly Dispute</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Moment of Glory</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains indestructible and flying until end of turn. (Effects that say “destroy” don’t destroy that permanent and it can’t be blocked except by creatures with flying or reach.)
 Scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
-</card>
-<card>
- <name>UW06 — Tenet of Faith</name>
- <set rarity="uncommon">PCS</set>
- <color>W</color>
- <manacost>4W</manacost>
- <cmc>5</cmc>
- <type>Creature - Angel </type>
- <pt>3/3</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
-Whenever you gain life, put a +1/+1 counter on Tenet of Faith.</text>
-</card>
-<card>
- <name>RW03</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>RW02</name>
- <set rarity="rare">PCS</set>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type></type>
- <tablerow>1</tablerow>
- <text></text>
-</card>
-<card>
- <name>UM09 — Gloomshrieker</name>
- <set rarity="uncommon">PCS</set>
- <color>BG</color>
- <manacost>1BG</manacost>
- <cmc>3</cmc>
- <type>Enchantment Creature - Cat Beast </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>Menace (This creature can’t be blocked except by two or more creatures.)
+    </card>
+    <card>
+      <name>Tenet of Faith</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+When Tenet of Faith enters the battlefield, exile up to one target card from a graveyard. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Gloomshrieker</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
 When Gloomshrieker enters the battlefield, return target permanent card from your graveyard to your hand.
 If Gloomshrieker would die, exile it instead.</text>
-</card>
-<card>
- <name>CG12 — Prey Upon</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Target creature you control fights target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
-</card>
-<card>
- <name>UB08 — Grave Calling</name>
- <set rarity="uncommon">PCS</set>
- <color>B</color>
- <manacost>XB</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Grave Calling costs 1 less for each card in each opponent’s graveyard.
+    </card>
+    <card>
+      <name>Prey Upon</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Grave Calling</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Grave Calling costs {1} less for each card in each opponent’s graveyard.
 Target creature gets -X/-X until end of turn.</text>
-</card>
-<card>
- <name>CB14 — Moment of Craving</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Target creature gets -2/-2 until end of turn. You gain 2 life.</text>
-</card>
-<card>
- <name>CB17 — Duress</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
-</card>
-<card>
- <name>UU03 — Man-o'-War</name>
- <set rarity="uncommon">PCS</set>
- <color>U</color>
- <manacost>2U</manacost>
- <cmc>3</cmc>
- <type>Creature - Jellyfish </type>
- <pt>2/2</pt>
- <tablerow>2</tablerow>
- <text>When Man-o’-War enters the battlefield, return target creature to its owner’s hand.</text>
-</card>
-<card>
- <name>CU16 — Unsummon</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>U</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Return target creature to its owner’s hand.</text>
-</card>
-<card>
- <name>CU14 — Divination</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>2U</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Draw two cards.</text>
-</card>
-<card>
- <name>CU11 — Cancel</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1UU</manacost>
- <cmc>3</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Counter target spell.</text>
-</card>
-<card>
- <name>CW14 — Sense of Peace</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Enchantment - Aura </type>
- <tablerow>1</tablerow>
- <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+    </card>
+    <card>
+      <name>Moment of Craving</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Duress</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Man-o&apos;-War</name>
+      <set rarity="uncommon">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Man-o’-War enters the battlefield, return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Unsummon</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Divination</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Cancel</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.</text>
+    </card>
+    <card>
+      <name>Sense of Peace</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
 When Sense of Peace enters the battlefield, scry 2.
 Enchanted creature can’t attack or block.</text>
-</card>
-<card>
- <name>CB13 — Pharika's Libation</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Choose one —
+    </card>
+    <card>
+      <name>Pharika&apos;s Libation</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
 • Target opponent sacrifices a creature.
 • Target opponent sacrifices an enchantment.</text>
-</card>
-<card>
- <name>CW03 — Raise the Alarm</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Create two 1/1 white Soldier creature tokens.</text>
-</card>
-<card>
- <name>CB11 — Finishing Blow</name>
- <set rarity="common">PCS</set>
- <color>B</color>
- <manacost>4B</manacost>
- <cmc>5</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Destroy target creature or planeswalker.</text>
-</card>
-<card>
- <name>CR11 — Shock</name>
- <set rarity="common">PCS</set>
- <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Shock deals 2 damage to any target.</text>
-</card>
-<card>
- <name>CL03 — Bloodfell Caves</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Bloodfell Caves enters the battlefield tapped.
+    </card>
+    <card>
+      <name>Raise the Alarm</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Soldier creature tokens.</text>
+    </card>
+    <card>
+      <name>Finishing Blow</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Shock</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shock deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Bloodfell Caves</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
-T: Add B or R.</text>
-</card>
-<card>
- <name>CL05 — Blossoming Sands</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Blossoming Sands enters the battlefield tapped.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Blossoming Sands</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
-T: Add G or W.</text>
-</card>
-<card>
- <name>CL02 — Dismal Backwater</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Dismal Backwater enters the battlefield tapped.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Dismal Backwater</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
-T: Add U or B.</text>
-</card>
-<card>
- <name>CL11 — Evolving Wilds</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>T, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-</card>
-<card>
- <name>CL08 — Jungle Hollow</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Jungle Hollow enters the battlefield tapped.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Evolving Wilds</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Jungle Hollow</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
-T: Add B or G.</text>
-</card>
-<card>
- <name>CL04 — Rugged Highlands</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Rugged Highlands enters the battlefield tapped.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Rugged Highlands</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
-T: Add R or G.</text>
-</card>
-<card>
- <name>CL06 — Scoured Barrens</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Scoured Barrens enters the battlefield tapped.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Scoured Barrens</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
-T: Add W or B.</text>
-</card>
-<card>
- <name>CL07 — Swiftwater Cliffs</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Swiftwater Cliffs enters the battlefield tapped.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Swiftwater Cliffs</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
-T: Add U or R.</text>
-</card>
-<card>
- <name>CL10 — Thornwood Falls</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Thornwood Falls enters the battlefield tapped.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Thornwood Falls</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
-T: Add G or U.</text>
-</card>
-<card>
- <name>CL01 — Tranquil Cove</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Tranquil Cove enters the battlefield tapped.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Tranquil Cove</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
-T: Add W or U.</text>
-</card>
-<card>
- <name>CL09 — Wind-Scarred Crag</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Wind-Scarred Crag enters the battlefield tapped.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Wind-Scarred Crag</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
-T: Add R or W.</text>
-</card>
-<card>
- <name>CW13 — Piercing Light</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>W</manacost>
- <cmc>1</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Piercing Light deals 2 damage to target attacking or blocking creature. Scry 1.</text>
-</card>
-<card>
- <name>CW15 — Bring to Trial</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
- <text>Exile target creature with power 4 or greater.</text>
-</card>
-<card>
- <name>CW19 — Disenchant</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Destroy target artifact or enchantment.</text>
-</card>
-<card>
- <name>CG19 — Return to Nature</name>
- <set rarity="common">PCS</set>
- <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Choose one —
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Piercing Light</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Piercing Light deals 2 damage to target attacking or blocking creature. Scry 1.</text>
+    </card>
+    <card>
+      <name>Bring to Trial</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Disenchant</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Return to Nature</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
 • Destroy target artifact.
 • Destroy target enchantment.
 • Exile target card from a graveyard.</text>
-</card>
-<card>
- <name>CU12 — Quench</name>
- <set rarity="common">PCS</set>
- <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
- <type>Instant</type>
- <tablerow>3</tablerow>
- <text>Counter target spell unless its controller pays 2.</text>
-</card>
-<card>
- <name>CA01 — Forgotten Watcher</name>
- <set rarity="common">PCS</set>
- <color></color>
- <manacost>2</manacost>
- <cmc>2</cmc>
- <type>Artifact Creature - Scarecrow </type>
- <pt>2/1</pt>
- <tablerow>2</tablerow>
- <text>When Forgotten Watcher enters the battlefield, exile target card from a graveyard. You gain 2 life.</text>
-</card>
-<card>
- <name>CW11 — Bitterwing</name>
- <set rarity="common">PCS</set>
- <color>W</color>
- <manacost>3WW</manacost>
- <cmc>5</cmc>
- <type>Creature - Angel </type>
- <pt>2/3</pt>
- <tablerow>2</tablerow>
- <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+    </card>
+    <card>
+      <name>Quench</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>Forgotten Watcher</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Scarecrow </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Forgotten Watcher enters the battlefield, exile target card from a graveyard. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Bitterwing</name>
+      <set rarity="common">PCS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
 When Bitterwing enters the battlefield, return target creature with mana value 3 or less from your graveyard to the battlefield.</text>
-</card>
-<card>
- <name>RL05 — Canopy Vista</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Forest Plains </type>
- <tablerow>0</tablerow>
- <text>(T: Add G or W.)
+    </card>
+    <card>
+      <name>Canopy Vista</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
 Canopy Vista enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL04 — Cinder Glade</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Mountain Forest </type>
- <tablerow>0</tablerow>
- <text>(T: Add R or G.)
+    </card>
+    <card>
+      <name>Cinder Glade</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
 Cinder Glade enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL07 — Coral Cliffs</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Island Mountain </type>
- <tablerow>0</tablerow>
- <text>(T: Add U or R.)
+    </card>
+    <card>
+      <name>Coral Cliffs</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
 Coral Cliffs enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL10 — Endless Expanse</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Forest Island </type>
- <tablerow>0</tablerow>
- <text>(T: Add G or U.)
+    </card>
+    <card>
+      <name>Endless Expanse</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
 Endless Expanse enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL08 — Haunted Crevice</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Swamp Forest </type>
- <tablerow>0</tablerow>
- <text>(T: Add B or G.)
+    </card>
+    <card>
+      <name>Haunted Crevice</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
 Haunted Crevice enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL01 — Prairie Stream</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Plains Island </type>
- <tablerow>0</tablerow>
- <text>(T: Add W or U.)
+    </card>
+    <card>
+      <name>Prairie Stream</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
 Prairie Stream enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL09 — Sandy Plateau</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Mountain Plains </type>
- <tablerow>0</tablerow>
- <text>(T: Add R or W.)
+    </card>
+    <card>
+      <name>Sandy Plateau</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
 Sandy Plateau enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL03 — Smoldering Marsh</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Swamp Mountain </type>
- <tablerow>0</tablerow>
- <text>(T: Add B or R.)
+    </card>
+    <card>
+      <name>Smoldering Marsh</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
 Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL02 — Sunken Hollow</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Island Swamp </type>
- <tablerow>0</tablerow>
- <text>(T: Add U or B.)
+    </card>
+    <card>
+      <name>Sunken Hollow</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
 Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
-<card>
- <name>RL06 — Void Pit</name>
- <set rarity="rare">PCS</set>
- <color></color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Land - Plains Swamp </type>
- <tablerow>0</tablerow>
- <text>(T: Add W or B.)
+    </card>
+    <card>
+      <name>Void Pit</name>
+      <set rarity="rare">PCS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
 Void Pit enters the battlefield tapped unless you control two or more basic lands.</text>
-</card>
+    </card>
 
-<!-->Tokens</-->
+    <!-->Tokens</-->
 
 
-</cards>
+  </cards>
 </cockatrice_carddatabase>
