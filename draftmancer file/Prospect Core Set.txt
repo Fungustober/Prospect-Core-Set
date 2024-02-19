@@ -1,2750 +1,2084 @@
 [CustomCards]
 	[    {
-	        "name": "UM01 — Arrogant Arcanist",
+	        "name": "Arrogant Arcanist",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM01%20%E2%80%94%20Arrogant%20Arcanist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Arrogant%20Arcanist.png"
 	        }
 	    },
 	    {
-	        "name": "UM02 — Corpse Knight",
+	        "name": "Corpse Knight",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Zombie Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM02%20%E2%80%94%20Corpse%20Knight.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Corpse%20Knight.png"
 	        }
 	    },
 	    {
-	        "name": "UM04 — Armed Troops",
+	        "name": "Armed Troops",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM04%20%E2%80%94%20Armed%20Troops.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Armed%20Troops.png"
 	        }
 	    },
 	    {
-	        "name": "UM10 — Rubblebelt Shaman",
+	        "name": "Rubblebelt Shaman",
 	        "rarity": "uncommon",
 	        "mana_cost": "{R}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM10%20%E2%80%94%20Rubblebelt%20Shaman.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Rubblebelt%20Shaman.png"
 	        }
 	    },
 	    {
-	        "name": "CW06 — Charging Commander",
+	        "name": "Charging Commander",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Elf Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW06%20%E2%80%94%20Charging%20Commander.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Charging%20Commander.png"
 	        }
 	    },
 	    {
-	        "name": "CW08 — Charismatic Tactician",
+	        "name": "Charismatic Tactician",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW08%20%E2%80%94%20Charismatic%20Tactician.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Charismatic%20Tactician.png"
 	        }
 	    },
 	    {
-	        "name": "CW09 — Basri's Acolyte",
+	        "name": "Basri's Acolyte",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Cat Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW09%20%E2%80%94%20Basri%27s%20Acolyte.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Basri%27s%20Acolyte.png"
 	        }
 	    },
 	    {
-	        "name": "CW10 — Guild Taskmaster",
+	        "name": "Guild Taskmaster",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW10%20%E2%80%94%20Guild%20Taskmaster.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Guild%20Taskmaster.png"
 	        }
 	    },
 	    {
-	        "name": "CW12 — Regal Guardian",
+	        "name": "Regal Guardian",
 	        "rarity": "common",
 	        "mana_cost": "{5}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW12%20%E2%80%94%20Regal%20Guardian.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Regal%20Guardian.png"
 	        }
 	    },
 	    {
-	        "name": "CW16 — Defiant Strike",
+	        "name": "Defiant Strike",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW16%20%E2%80%94%20Defiant%20Strike.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Defiant%20Strike.png"
 	        }
 	    },
 	    {
-	        "name": "CW17 — Timeless Strength",
+	        "name": "Timeless Strength",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW17%20%E2%80%94%20Timeless%20Strength.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Timeless%20Strength.png"
 	        }
 	    },
 	    {
-	        "name": "CW18 — Alert the Guild",
+	        "name": "Alert the Guild",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW18%20%E2%80%94%20Alert%20the%20Guild.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Alert%20the%20Guild.png"
 	        }
 	    },
 	    {
-	        "name": "CU02 — Augur of the Sapphire",
+	        "name": "Augur of the Sapphire",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU02%20%E2%80%94%20Augur%20of%20the%20Sapphire.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Augur%20of%20the%20Sapphire.png"
 	        }
 	    },
 	    {
-	        "name": "CU03 — Guiding Siren",
+	        "name": "Guiding Siren",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU03%20%E2%80%94%20Guiding%20Siren.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Guiding%20Siren.png"
 	        }
 	    },
 	    {
-	        "name": "CU04 — Frost Lynx",
+	        "name": "Frost Lynx",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Elemental Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU04%20%E2%80%94%20Frost%20Lynx.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Frost%20Lynx.png"
 	        }
 	    },
 	    {
-	        "name": "CU05 — Crustacean Monstrosity",
+	        "name": "Crustacean Monstrosity",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Crab Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU05%20%E2%80%94%20Crustacean%20Monstrosity.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Crustacean%20Monstrosity.png"
 	        }
 	    },
 	    {
-	        "name": "CU06 — Forgotten Mourner",
+	        "name": "Forgotten Mourner",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU06%20%E2%80%94%20Forgotten%20Mourner.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Forgotten%20Mourner.png"
 	        }
 	    },
 	    {
-	        "name": "CU07 — Nyxborn Starbather",
+	        "name": "Nyxborn Starbather",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment Creature — Merfolk ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU07%20%E2%80%94%20Nyxborn%20Starbather.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Nyxborn%20Starbather.png"
 	        }
 	    },
 	    {
-	        "name": "CU08 — Cloudgator",
+	        "name": "Cloudgator",
 	        "rarity": "common",
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Elemental Crocodile ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU08%20%E2%80%94%20Cloudgator.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Cloudgator.png"
 	        }
 	    },
 	    {
-	        "name": "CU09 — Magegrasp Kraken",
+	        "name": "Magegrasp Kraken",
 	        "rarity": "common",
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Squid ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU09%20%E2%80%94%20Magegrasp%20Kraken.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Magegrasp%20Kraken.png"
 	        }
 	    },
 	    {
-	        "name": "CU10 — Wall of Rime",
+	        "name": "Wall of Rime",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Wall ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU10%20%E2%80%94%20Wall%20of%20Rime.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Wall%20of%20Rime.png"
 	        }
 	    },
 	    {
-	        "name": "CU13 — Totally Lost",
+	        "name": "Totally Lost",
 	        "rarity": "common",
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU13%20%E2%80%94%20Totally%20Lost.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Totally%20Lost.png"
 	        }
 	    },
 	    {
-	        "name": "CU15 — Search the Scrolls",
+	        "name": "Search the Scrolls",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU15%20%E2%80%94%20Search%20the%20Scrolls.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Search%20the%20Scrolls.png"
 	        }
 	    },
 	    {
-	        "name": "CU17 — Focused Strike",
+	        "name": "Focused Strike",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU17%20%E2%80%94%20Focused%20Strike.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Focused%20Strike.png"
 	        }
 	    },
 	    {
-	        "name": "CU18 — Grasp of Oblivion",
+	        "name": "Grasp of Oblivion",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU18%20%E2%80%94%20Grasp%20of%20Oblivion.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Grasp%20of%20Oblivion.png"
 	        }
 	    },
 	    {
-	        "name": "CU19 — Flowing Mantle",
+	        "name": "Flowing Mantle",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU19%20%E2%80%94%20Flowing%20Mantle.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Flowing%20Mantle.png"
 	        }
 	    },
 	    {
-	        "name": "CB01 — Serrated Scorpion",
+	        "name": "Serrated Scorpion",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Creature — Scorpion ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB01%20%E2%80%94%20Serrated%20Scorpion.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Serrated%20Scorpion.png"
 	        }
 	    },
 	    {
-	        "name": "CB02 — Watcher of the Knights",
+	        "name": "Watcher of the Knights",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB02%20%E2%80%94%20Watcher%20of%20the%20Knights.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Watcher%20of%20the%20Knights.png"
 	        }
 	    },
 	    {
-	        "name": "CB03 — Doomed Dissenter",
+	        "name": "Doomed Dissenter",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB03%20%E2%80%94%20Doomed%20Dissenter.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Doomed%20Dissenter.png"
 	        }
 	    },
 	    {
-	        "name": "CB04 — Unwitting Sacrifice",
+	        "name": "Unwitting Sacrifice",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB04%20%E2%80%94%20Unwitting%20Sacrifice.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Unwitting%20Sacrifice.png"
 	        }
 	    },
 	    {
-	        "name": "CB05 — Skymarch Bloodletter",
+	        "name": "Skymarch Bloodletter",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Vampire Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB05%20%E2%80%94%20Skymarch%20Bloodletter.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Skymarch%20Bloodletter.png"
 	        }
 	    },
 	    {
-	        "name": "CB06 — Ragebringer",
+	        "name": "Ragebringer",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment Creature — Icon Berserker ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB06%20%E2%80%94%20Ragebringer.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Ragebringer.png"
 	        }
 	    },
 	    {
-	        "name": "CB07 — Demanding Patron",
+	        "name": "Demanding Patron",
 	        "rarity": "common",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB07%20%E2%80%94%20Demanding%20Patron.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Demanding%20Patron.png"
 	        }
 	    },
 	    {
-	        "name": "CB08 — Deepskulker",
+	        "name": "Deepskulker",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB08%20%E2%80%94%20Deepskulker.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Deepskulker.png"
 	        }
 	    },
 	    {
-	        "name": "CB09 — Dock Cutthroat",
+	        "name": "Dock Cutthroat",
 	        "rarity": "common",
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Homarid Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB09%20%E2%80%94%20Dock%20Cutthroat.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Dock%20Cutthroat.png"
 	        }
 	    },
 	    {
-	        "name": "CB10 — Ashen Tormentor",
+	        "name": "Ashen Tormentor",
 	        "rarity": "common",
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB10%20%E2%80%94%20Ashen%20Tormentor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Ashen%20Tormentor.png"
 	        }
 	    },
 	    {
-	        "name": "CB12 — Merciless Evisceration",
+	        "name": "Merciless Evisceration",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB12%20%E2%80%94%20Merciless%20Evisceration.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Merciless%20Evisceration.png"
 	        }
 	    },
 	    {
-	        "name": "CB15 — Blood Pact",
+	        "name": "Blood Pact",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB15%20%E2%80%94%20Blood%20Pact.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Blood%20Pact.png"
 	        }
 	    },
 	    {
-	        "name": "CB16 — Scornful Return",
+	        "name": "Scornful Return",
 	        "rarity": "common",
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB16%20%E2%80%94%20Scornful%20Return.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Scornful%20Return.png"
 	        }
 	    },
 	    {
-	        "name": "CB18 — Demonic Blessing",
+	        "name": "Demonic Blessing",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB18%20%E2%80%94%20Demonic%20Blessing.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Demonic%20Blessing.png"
 	        }
 	    },
 	    {
-	        "name": "CB19 — Altar's benediction",
+	        "name": "Altar's Benediction",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB19%20%E2%80%94%20Altar%27s%20benediction.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Altar%27s%20Benediction.png"
 	        }
 	    },
 	    {
-	        "name": "CR01 — Magma Stoker",
+	        "name": "Magma Stoker",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Creature — Devil ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR01%20%E2%80%94%20Magma%20Stoker.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Magma%20Stoker.png"
 	        }
 	    },
 	    {
-	        "name": "CR02 — Ironclad Smelter",
+	        "name": "Ironclad Smelter",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR02%20%E2%80%94%20Ironclad%20Smelter.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Ironclad%20Smelter.png"
 	        }
 	    },
 	    {
-	        "name": "CR03 — Fireforged Prophet",
+	        "name": "Fireforged Prophet",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR03%20%E2%80%94%20Fireforged%20Prophet.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Fireforged%20Prophet.png"
 	        }
 	    },
 	    {
-	        "name": "CR04 — Carver of Heretics",
+	        "name": "Carver of Heretics",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR04%20%E2%80%94%20Carver%20of%20Heretics.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Carver%20of%20Heretics.png"
 	        }
 	    },
 	    {
-	        "name": "CR05 — Magma Elemental",
+	        "name": "Magma Elemental",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR05%20%E2%80%94%20Magma%20Elemental.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Magma%20Elemental.png"
 	        }
 	    },
 	    {
-	        "name": "CR06 — Bellowing Frontliner",
+	        "name": "Bellowing Frontliner",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Demon Berserker ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR06%20%E2%80%94%20Bellowing%20Frontliner.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bellowing%20Frontliner.png"
 	        }
 	    },
 	    {
-	        "name": "CR07 — Expulsion Elemental",
+	        "name": "Expulsion Elemental",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR07%20%E2%80%94%20Expulsion%20Elemental.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Expulsion%20Elemental.png"
 	        }
 	    },
 	    {
-	        "name": "CR08 — Hellswallower",
+	        "name": "Hellswallower",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact Creature — Lizard Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR08%20%E2%80%94%20Hellswallower.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Hellswallower.png"
 	        }
 	    },
 	    {
-	        "name": "CR09 — Shoreside Watcher",
+	        "name": "Shoreside Watcher",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR09%20%E2%80%94%20Shoreside%20Watcher.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Shoreside%20Watcher.png"
 	        }
 	    },
 	    {
-	        "name": "CR10 — Friend of the Drakes",
+	        "name": "Friend of the Drakes",
 	        "rarity": "common",
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Azra Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR10%20%E2%80%94%20Friend%20of%20the%20Drakes.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Friend%20of%20the%20Drakes.png"
 	        }
 	    },
 	    {
-	        "name": "CR12 — Dragon's Ire",
+	        "name": "Dragon's Ire",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR12%20%E2%80%94%20Dragon%27s%20Ire.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Dragon%27s%20Ire.png"
 	        }
 	    },
 	    {
-	        "name": "CR13 — Battle Craze",
+	        "name": "Battle Craze",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR13%20%E2%80%94%20Battle%20Craze.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Battle%20Craze.png"
 	        }
 	    },
 	    {
-	        "name": "CR14 — Flames of War",
+	        "name": "Flames of War",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR14%20%E2%80%94%20Flames%20of%20War.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Flames%20of%20War.png"
 	        }
 	    },
 	    {
-	        "name": "CR15 — Burning Triumph",
+	        "name": "Burning Triumph",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR15%20%E2%80%94%20Burning%20Triumph.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Burning%20Triumph.png"
 	        }
 	    },
 	    {
-	        "name": "CR16 — Dragonslayer's Blade",
+	        "name": "Dragonslayer's Blade",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR16%20%E2%80%94%20Dragonslayer%27s%20Blade.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Dragonslayer%27s%20Blade.png"
 	        }
 	    },
 	    {
-	        "name": "CR17 — Bloodrage",
+	        "name": "Bloodrage",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR17%20%E2%80%94%20Bloodrage.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bloodrage.png"
 	        }
 	    },
 	    {
-	        "name": "CR18 — Jawbreak",
+	        "name": "Jawbreak",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR18%20%E2%80%94%20Jawbreak.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Jawbreak.png"
 	        }
 	    },
 	    {
-	        "name": "CR19 — Demonic Oriflamme",
+	        "name": "Demonic Oriflamme",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR19%20%E2%80%94%20Demonic%20Oriflamme.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Demonic%20Oriflamme.png"
 	        }
 	    },
 	    {
-	        "name": "CG01 — Shadowblade Champion",
+	        "name": "Shadowblade Champion",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG01%20%E2%80%94%20Shadowblade%20Champion.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Shadowblade%20Champion.png"
 	        }
 	    },
 	    {
-	        "name": "CG02 — Druid of Ashes",
+	        "name": "Druid of Ashes",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG02%20%E2%80%94%20Druid%20of%20Ashes.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Druid%20of%20Ashes.png"
 	        }
 	    },
 	    {
-	        "name": "CG03 — Butterfly Shaman",
+	        "name": "Butterfly Shaman",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Bird Shaman ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG03%20%E2%80%94%20Butterfly%20Shaman.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Butterfly%20Shaman.png"
 	        }
 	    },
 	    {
-	        "name": "CG04 — Tolek's Avenger",
+	        "name": "Tolek's Avenger",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Demon Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG04%20%E2%80%94%20Tolek%27s%20Avenger.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Tolek%27s%20Avenger.png"
 	        }
 	    },
 	    {
-	        "name": "CG05 — Skytree Brigade",
+	        "name": "Skytree Brigade",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Archer ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG05%20%E2%80%94%20Skytree%20Brigade.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Skytree%20Brigade.png"
 	        }
 	    },
 	    {
-	        "name": "CG06 — Pack Bonder",
+	        "name": "Pack Bonder",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG06%20%E2%80%94%20Pack%20Bonder.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Pack%20Bonder.png"
 	        }
 	    },
 	    {
-	        "name": "CG07 — Inspiring Royalty",
+	        "name": "Inspiring Royalty",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elf Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG07%20%E2%80%94%20Inspiring%20Royalty.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Inspiring%20Royalty.png"
 	        }
 	    },
 	    {
-	        "name": "CG08 — Sandyard Stalker",
+	        "name": "Sandyard Stalker",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG08%20%E2%80%94%20Sandyard%20Stalker.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Sandyard%20Stalker.png"
 	        }
 	    },
 	    {
-	        "name": "CG09 — Shadowborn Brothers",
+	        "name": "Shadowborn Brothers",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG09%20%E2%80%94%20Shadowborn%20Brothers.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Shadowborn%20Brothers.png"
 	        }
 	    },
 	    {
-	        "name": "CG10 — Colossal Dreadmaw",
+	        "name": "Colossal Dreadmaw",
 	        "rarity": "common",
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG10%20%E2%80%94%20Colossal%20Dreadmaw.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Colossal%20Dreadmaw.png"
 	        }
 	    },
 	    {
-	        "name": "CG11 — Fungal Grovetender",
+	        "name": "Fungal Grovetender",
 	        "rarity": "common",
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Fungus ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG11%20%E2%80%94%20Fungal%20Grovetender.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Fungal%20Grovetender.png"
 	        }
 	    },
 	    {
-	        "name": "CG13 — Hidden Strike",
+	        "name": "Hidden Strike",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG13%20%E2%80%94%20Hidden%20Strike.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Hidden%20Strike.png"
 	        }
 	    },
 	    {
-	        "name": "CG14 — Spirit Shield",
+	        "name": "Spirit Shield",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG14%20%E2%80%94%20Spirit%20Shield.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Spirit%20Shield.png"
 	        }
 	    },
 	    {
-	        "name": "CG15 — Deathbloom",
+	        "name": "Deathbloom",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG15%20%E2%80%94%20Deathbloom.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Deathbloom.png"
 	        }
 	    },
 	    {
-	        "name": "CG16 — Queen's Protection",
+	        "name": "Queen's Protection",
 	        "rarity": "common",
 	        "mana_cost": "{4}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG16%20%E2%80%94%20Queen%27s%20Protection.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Queen%27s%20Protection.png"
 	        }
 	    },
 	    {
-	        "name": "CG17 — Run Afoul",
+	        "name": "Run Afoul",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG17%20%E2%80%94%20Run%20Afoul.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Run%20Afoul.png"
 	        }
 	    },
 	    {
-	        "name": "CG18 — Worldtwist",
+	        "name": "Worldtwist",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG18%20%E2%80%94%20Worldtwist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Worldtwist.png"
 	        }
 	    },
 	    {
-	        "name": "CG19 — Ayula's Dictate",
-	        "rarity": "special",
-	        "mana_cost": "{1}{G}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG19%20%E2%80%94%20Ayula%27s%20Dictate.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "CA02 — Blade of a Lost Age",
+	        "name": "Blade of a Lost Age",
 	        "rarity": "common",
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CA02%20%E2%80%94%20Blade%20of%20a%20Lost%20Age.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Blade%20of%20a%20Lost%20Age.png"
 	        }
 	    },
 	    {
-	        "name": "CA03 — Reawakened Drone",
+	        "name": "Reawakened Drone",
 	        "rarity": "common",
 	        "mana_cost": "{6}",
 	        "type": "Artifact Creature — Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CA03%20%E2%80%94%20Reawakened%20Drone.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Reawakened%20Drone.png"
 	        }
 	    },
 	    {
-	        "name": "CA04 — Titanslayer Axe",
+	        "name": "Titanslayer Axe",
 	        "rarity": "common",
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CA04%20%E2%80%94%20Titanslayer%20Axe.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Titanslayer%20Axe.png"
 	        }
 	    },
 	    {
-	        "name": "CA06 — Alien Crystal",
+	        "name": "Alien Crystal",
 	        "rarity": "common",
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CA06%20%E2%80%94%20Alien%20Crystal.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Alien%20Crystal.png"
 	        }
 	    },
 	    {
-	        "name": "UW01 — Avenging Knight",
+	        "name": "Avenging Knight",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW01%20%E2%80%94%20Avenging%20Knight.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Avenging%20Knight.png"
 	        }
 	    },
 	    {
-	        "name": "UW02 — Garrison Chef",
+	        "name": "Garrison Chef",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW02%20%E2%80%94%20Garrison%20Chef.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Garrison%20Chef.png"
 	        }
 	    },
 	    {
-	        "name": "UW03 — Seasoned Duelist",
+	        "name": "Seasoned Duelist",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW03%20%E2%80%94%20Seasoned%20Duelist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Seasoned%20Duelist.png"
 	        }
 	    },
 	    {
-	        "name": "UW05 — Miriam's Purifier",
+	        "name": "Miriam's Purifier",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW05%20%E2%80%94%20Miriam%27s%20Purifier.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Miriam%27s%20Purifier.png"
 	        }
 	    },
 	    {
-	        "name": "UW07 — Herald of the Masses",
+	        "name": "Herald of the Masses",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW07%20%E2%80%94%20Herald%20of%20the%20Masses.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Herald%20of%20the%20Masses.png"
 	        }
 	    },
 	    {
-	        "name": "UW08 — Last Line",
+	        "name": "Last Line",
 	        "rarity": "uncommon",
 	        "mana_cost": "{5}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW08%20%E2%80%94%20Last%20Line.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Last%20Line.png"
 	        }
 	    },
 	    {
-	        "name": "UW09 — Spiritual Substitute",
+	        "name": "Spiritual Substitute",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW09%20%E2%80%94%20Spiritual%20Substitute.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Spiritual%20Substitute.png"
 	        }
 	    },
 	    {
-	        "name": "UW11 — Battle Mastery",
+	        "name": "Battle Mastery",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW11%20%E2%80%94%20Battle%20Mastery.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Battle%20Mastery.png"
 	        }
 	    },
 	    {
-	        "name": "UU01 — Possessed Tome",
+	        "name": "Possessed Tome",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}",
 	        "type": "Creature — Spirit Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU01%20%E2%80%94%20Possessed%20Tome.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Possessed%20Tome.png"
 	        }
 	    },
 	    {
-	        "name": "UU02 — Nerisal Conspirator",
+	        "name": "Nerisal Conspirator",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU02%20%E2%80%94%20Nerisal%20Conspirator.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Nerisal%20Conspirator.png"
 	        }
 	    },
 	    {
-	        "name": "UU04 — Sorcerer of Thele",
+	        "name": "Sorcerer of Thele",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU04%20%E2%80%94%20Sorcerer%20of%20Thele.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Sorcerer%20of%20Thele.png"
 	        }
 	    },
 	    {
-	        "name": "UU05 — Domineering Sphinx",
+	        "name": "Domineering Sphinx",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Sphinx ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU05%20%E2%80%94%20Domineering%20Sphinx.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Domineering%20Sphinx.png"
 	        }
 	    },
 	    {
-	        "name": "UU06 — Phantasmal Dragon",
+	        "name": "Phantasmal Dragon",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Dragon Illusion ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU06%20%E2%80%94%20Phantasmal%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Phantasmal%20Dragon.png"
 	        }
 	    },
 	    {
-	        "name": "UU07 — Wayfaring Geist",
+	        "name": "Wayfaring Geist",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU07%20%E2%80%94%20Wayfaring%20Geist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Wayfaring%20Geist.png"
 	        }
 	    },
 	    {
-	        "name": "UU08 — Mind Bond",
+	        "name": "Mind Bond",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU08%20%E2%80%94%20Mind%20Bond.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Mind%20Bond.png"
 	        }
 	    },
 	    {
-	        "name": "UU09 — Remove Insignificance",
+	        "name": "Remove Insignificance",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU09%20%E2%80%94%20Remove%20Insignificance.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Remove%20Insignificance.png"
 	        }
 	    },
 	    {
-	        "name": "UU10 — Icy Armor",
+	        "name": "Icy Armor",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU10%20%E2%80%94%20Icy%20Armor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Icy%20Armor.png"
 	        }
 	    },
 	    {
-	        "name": "UU11 — Ethereal Chains",
+	        "name": "Ethereal Chains",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU11%20%E2%80%94%20Ethereal%20Chains.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Ethereal%20Chains.png"
 	        }
 	    },
 	    {
-	        "name": "UB01 — Dungeon Nibbler",
+	        "name": "Dungeon Nibbler",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}",
 	        "type": "Creature — Rat Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB01%20%E2%80%94%20Dungeon%20Nibbler.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Dungeon%20Nibbler.png"
 	        }
 	    },
 	    {
-	        "name": "UB03 — Blood Inspector",
+	        "name": "Blood Inspector",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB03%20%E2%80%94%20Blood%20Inspector.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Blood%20Inspector.png"
 	        }
 	    },
 	    {
-	        "name": "UB04 — Austere Matriarch",
+	        "name": "Austere Matriarch",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Vampire Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB04%20%E2%80%94%20Austere%20Matriarch.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Austere%20Matriarch.png"
 	        }
 	    },
 	    {
-	        "name": "UB06 — Silversmote Ghoul",
+	        "name": "Silversmote Ghoul",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie Vampire ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB06%20%E2%80%94%20Silversmote%20Ghoul.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Silversmote%20Ghoul.png"
 	        }
 	    },
 	    {
-	        "name": "UB05 — Drake of the Lurking Spire",
+	        "name": "Drake of the Lurking Spire",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB05%20%E2%80%94%20Drake%20of%20the%20Lurking%20Spire.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Drake%20of%20the%20Lurking%20Spire.png"
 	        }
 	    },
 	    {
-	        "name": "UB07 — Living Remains",
+	        "name": "Living Remains",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Zombie Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB07%20%E2%80%94%20Living%20Remains.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Living%20Remains.png"
 	        }
 	    },
 	    {
-	        "name": "UB09 — Cry of the Carnarium",
+	        "name": "Cry of the Carnarium",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB09%20%E2%80%94%20Cry%20of%20the%20Carnarium.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Cry%20of%20the%20Carnarium.png"
 	        }
 	    },
 	    {
-	        "name": "UB11 — Rot Away",
+	        "name": "Rot Away",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB11%20%E2%80%94%20Rot%20Away.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Rot%20Away.png"
 	        }
 	    },
 	    {
-	        "name": "UR01 — Lifeblood Broker",
+	        "name": "Lifeblood Broker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{R}",
 	        "type": "Creature — Vampire Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR01%20%E2%80%94%20Lifeblood%20Broker.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Lifeblood%20Broker.png"
 	        }
 	    },
 	    {
-	        "name": "UR03 — Flamedancer Monk",
+	        "name": "Flamedancer Monk",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR03%20%E2%80%94%20Flamedancer%20Monk.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Flamedancer%20Monk.png"
 	        }
 	    },
 	    {
-	        "name": "UR04 — Instability Elemental",
+	        "name": "Instability Elemental",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR04%20%E2%80%94%20Instability%20Elemental.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Instability%20Elemental.png"
 	        }
 	    },
 	    {
-	        "name": "UR05 — Earthquake Progenitor",
+	        "name": "Earthquake Progenitor",
 	        "rarity": "uncommon",
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR05%20%E2%80%94%20Earthquake%20Progenitor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Earthquake%20Progenitor.png"
 	        }
 	    },
 	    {
-	        "name": "UR06 — Ebonhorn Charger",
+	        "name": "Ebonhorn Charger",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Elemental Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR06%20%E2%80%94%20Ebonhorn%20Charger.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Ebonhorn%20Charger.png"
 	        }
 	    },
 	    {
-	        "name": "UR07 — Combusting Packleader",
+	        "name": "Combusting Packleader",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Elemental Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR07%20%E2%80%94%20Combusting%20Packleader.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Combusting%20Packleader.png"
 	        }
 	    },
 	    {
-	        "name": "UR08 — Impish Ploy",
+	        "name": "Impish Ploy",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR08%20%E2%80%94%20Impish%20Ploy.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Impish%20Ploy.png"
 	        }
 	    },
 	    {
-	        "name": "UR09 — Scattersnipe",
+	        "name": "Scattersnipe",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR09%20%E2%80%94%20Scattersnipe.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Scattersnipe.png"
 	        }
 	    },
 	    {
-	        "name": "UR11 — Glory in Battle",
+	        "name": "Glory in Battle",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR11%20%E2%80%94%20Glory%20in%20Battle.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Glory%20in%20Battle.png"
 	        }
 	    },
 	    {
-	        "name": "UG01 — Companion of Might",
+	        "name": "Companion of Might",
 	        "rarity": "uncommon",
 	        "mana_cost": "{G}",
 	        "type": "Creature — Centar Druid ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG01%20%E2%80%94%20Companion%20of%20Might.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Companion%20of%20Might.png"
 	        }
 	    },
 	    {
-	        "name": "UG02 — Greater Bondbeetle",
+	        "name": "Greater Bondbeetle",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG02%20%E2%80%94%20Greater%20Bondbeetle.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Greater%20Bondbeetle.png"
 	        }
 	    },
 	    {
-	        "name": "UG03 — Shimmerlings",
+	        "name": "Shimmerlings",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Illusion Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG03%20%E2%80%94%20Shimmerlings.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Shimmerlings.png"
 	        }
 	    },
 	    {
-	        "name": "UG04 — Beastbinder",
+	        "name": "Beastbinder",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elf ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG04%20%E2%80%94%20Beastbinder.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Beastbinder.png"
 	        }
 	    },
 	    {
-	        "name": "UG05 — Decaybound Goliath",
+	        "name": "Decaybound Goliath",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG05%20%E2%80%94%20Decaybound%20Goliath.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Decaybound%20Goliath.png"
 	        }
 	    },
 	    {
-	        "name": "UG06 — Oakwood Sentinel",
+	        "name": "Oakwood Sentinel",
 	        "rarity": "uncommon",
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG06%20%E2%80%94%20Oakwood%20Sentinel.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Oakwood%20Sentinel.png"
 	        }
 	    },
 	    {
-	        "name": "UG07 — Cobbleshell Familiar",
+	        "name": "Cobbleshell Familiar",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Crab Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG07%20%E2%80%94%20Cobbleshell%20Familiar.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Cobbleshell%20Familiar.png"
 	        }
 	    },
 	    {
-	        "name": "UG08 — Lumbering Magebane",
+	        "name": "Lumbering Magebane",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG08%20%E2%80%94%20Lumbering%20Magebane.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Lumbering%20Magebane.png"
 	        }
 	    },
 	    {
-	        "name": "UG09 — Groveseeking",
+	        "name": "Groveseeking",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG09%20%E2%80%94%20Groveseeking.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Groveseeking.png"
 	        }
 	    },
 	    {
-	        "name": "UG11 — Raise the Meek",
+	        "name": "Raise the Meek",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG11%20%E2%80%94%20Raise%20the%20Meek.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Raise%20the%20Meek.png"
 	        }
 	    },
 	    {
-	        "name": "UW12 — Inquisitor's Inspection",
+	        "name": "Inquisitor's Inspection",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW12%20%E2%80%94%20Inquisitor%27s%20Inspection.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Inquisitor%27s%20Inspection.png"
 	        }
 	    },
 	    {
-	        "name": "UU12 — Otherworldly Mechanism",
+	        "name": "Otherworldly Mechanism",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU12%20%E2%80%94%20Otherworldly%20Mechanism.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Otherworldly%20Mechanism.png"
 	        }
 	    },
 	    {
-	        "name": "UB12 — Go Blank",
+	        "name": "Go Blank",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB12%20%E2%80%94%20Go%20Blank.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Go%20Blank.png"
 	        }
 	    },
 	    {
-	        "name": "UR12 — Heat of the Forge",
+	        "name": "Heat of the Forge",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR12%20%E2%80%94%20Heat%20of%20the%20Forge.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Heat%20of%20the%20Forge.png"
 	        }
 	    },
 	    {
-	        "name": "UG12 — Bone Meal",
+	        "name": "Bone Meal",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG12%20%E2%80%94%20Bone%20Meal.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bone%20Meal.png"
 	        }
 	    },
 	    {
-	        "name": "UA06 — Castaway's Monument",
+	        "name": "Castaway's Monument",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA06%20%E2%80%94%20Castaway%27s%20Monument.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Castaway%27s%20Monument.png"
 	        }
 	    },
 	    {
-	        "name": "UA07 — Wurmscale Amber",
+	        "name": "Wurmscale Amber",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA07%20%E2%80%94%20Wurmscale%20Amber.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Wurmscale%20Amber.png"
 	        }
 	    },
 	    {
-	        "name": "UA08 — Bag of Scrap",
+	        "name": "Bag of Scrap",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA08%20%E2%80%94%20Bag%20of%20Scrap.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bag%20of%20Scrap.png"
 	        }
 	    },
 	    {
-	        "name": "UA09 — Cerebral Stimulator",
+	        "name": "Cerebral Stimulator",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA09%20%E2%80%94%20Cerebral%20Stimulator.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Cerebral%20Stimulator.png"
 	        }
 	    },
 	    {
-	        "name": "UA10 — Hell-Brewed Elixir",
+	        "name": "Hell-Brewed Elixir",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA10%20%E2%80%94%20Hell-Brewed%20Elixir.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Hell-Brewed%20Elixir.png"
 	        }
 	    },
 	    {
-	        "name": "UA01 — Gravestone Guardian",
+	        "name": "Gravestone Guardian",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA01%20%E2%80%94%20Gravestone%20Guardian.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Gravestone%20Guardian.png"
 	        }
 	    },
 	    {
-	        "name": "UA02 — Solemn Simulacrum",
+	        "name": "Solemn Simulacrum",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA02%20%E2%80%94%20Solemn%20Simulacrum.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Solemn%20Simulacrum.png"
 	        }
 	    },
 	    {
-	        "name": "UA03 — Roaming Gatecrasher",
+	        "name": "Roaming Gatecrasher",
 	        "rarity": "uncommon",
 	        "mana_cost": "{6}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA03%20%E2%80%94%20Roaming%20Gatecrasher.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Roaming%20Gatecrasher.png"
 	        }
 	    },
 	    {
-	        "name": "UA04 — Voltaic Amulet",
+	        "name": "Voltaic Amulet",
 	        "rarity": "uncommon",
 	        "mana_cost": "{X}{X}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA04%20%E2%80%94%20Voltaic%20Amulet.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Voltaic%20Amulet.png"
 	        }
 	    },
 	    {
-	        "name": "UA05 — Gemseeker Gear",
+	        "name": "Gemseeker Gear",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UA05%20%E2%80%94%20Gemseeker%20Gear.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Gemseeker%20Gear.png"
 	        }
 	    },
 	    {
-	        "name": "RW01",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW04",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW04.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW05",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW06",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW06.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW07",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW07.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU02",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU03",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU03.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU04",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU04.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU05",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU06",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU06.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU07",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU07.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB01",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB04",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB04.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB05",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB06",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB06.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB07",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB07.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR01",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR02",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR03",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR03.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR05",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR06",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR06.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR07",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR07.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG01",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG02",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG03",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG03.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG04 — Flowering Dead",
+	        "name": "Flowering Dead",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{G}",
-	        "type": "Creature — Plant Zombie ",
+	        "type": "Artifact Creature — Plant Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG04%20%E2%80%94%20Flowering%20Dead.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Flowering%20Dead.png"
 	        }
 	    },
 	    {
-	        "name": "RG05",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG06",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG06.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG07",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG07.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW08",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW08.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU08",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU08.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB08",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB08.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR08",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR08.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG08",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG08.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW09",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW09.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU09",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU09.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB09",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB09.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RR09",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR09.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RG09",
-	        "rarity": "rare",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RG09.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA01",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA02",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA03",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA03.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA04",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA04.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA05",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA06",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA06.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA07",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA07.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RA08",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RA08.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MW02",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MW02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MU01",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MU01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MU02",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MU02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MB01",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MB01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MB02",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MB02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MG01 — Tolek, Who Bargains with Life",
-	        "rarity": "mythic",
-	        "mana_cost": "{G}",
-	        "type": "Legendary Planeswalker — Tolek ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MG01%20%E2%80%94%20Tolek%2c%20Who%20Bargains%20with%20Life.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MG02",
-	        "rarity": "mythic",
-	        "mana_cost": "{G}",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MG02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MA01",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MA01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MA02",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MA02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MA03",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MA03.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MA04",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MA04.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "CW01 — Flourishing Flock",
+	        "name": "Flourishing Flock",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW01%20%E2%80%94%20Flourishing%20Flock.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Flourishing%20Flock.png"
 	        }
 	    },
 	    {
-	        "name": "CW02 — Herald of Patience",
+	        "name": "Herald of Patience",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW02%20%E2%80%94%20Herald%20of%20Patience.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Herald%20of%20Patience.png"
 	        }
 	    },
 	    {
-	        "name": "CW05 — Frostbite Trapper",
+	        "name": "Frostbite Trapper",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW05%20%E2%80%94%20Frostbite%20Trapper.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Frostbite%20Trapper.png"
 	        }
 	    },
 	    {
-	        "name": "CW04 — Field Medic",
+	        "name": "Field Medic",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW04%20%E2%80%94%20Field%20Medic.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Field%20Medic.png"
 	        }
 	    },
 	    {
-	        "name": "CW07 — Glorious Lightbringer",
+	        "name": "Glorious Lightbringer",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Elk Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW07%20%E2%80%94%20Glorious%20Lightbringer.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Glorious%20Lightbringer.png"
 	        }
 	    },
 	    {
-	        "name": "UW04 — Extraction Baron",
+	        "name": "Extraction Baron",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Bird Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW04%20%E2%80%94%20Extraction%20Baron.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Extraction%20Baron.png"
 	        }
 	    },
 	    {
-	        "name": "UB02 — Mangy Unhallowed",
+	        "name": "Mangy Unhallowed",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Dog ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB02%20%E2%80%94%20Mangy%20Unhallowed.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Mangy%20Unhallowed.png"
 	        }
 	    },
 	    {
-	        "name": "RR04 — Hadanu's Command",
-	        "rarity": "special",
+	        "name": "Hadanu's Command",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR04%20%E2%80%94%20Hadanu%27s%20Command.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Hadanu%27s%20Command.png"
 	        }
 	    },
 	    {
-	        "name": "UW10 — Stalwart Opposition",
-	        "rarity": "special",
+	        "name": "Stalwart Opposition",
+	        "rarity": "rare",
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW10%20%E2%80%94%20Stalwart%20Opposition.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Stalwart%20Opposition.png"
 	        }
 	    },
 	    {
-	        "name": "CU01 — Mageknight Adept",
+	        "name": "Mageknight Adept",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Knight Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU01%20%E2%80%94%20Mageknight%20Adept.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Mageknight%20Adept.png"
 	        }
 	    },
 	    {
-	        "name": "UM03 — Hero of the Nyxborn",
+	        "name": "Hero of the Nyxborn",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Enchantment Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM03%20%E2%80%94%20Hero%20of%20the%20Nyxborn.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Hero%20of%20the%20Nyxborn.png"
 	        }
 	    },
 	    {
-	        "name": "UM05 — Unx Archivist",
+	        "name": "Unx Archivist",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM05%20%E2%80%94%20Unx%20Archivist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Unx%20Archivist.png"
 	        }
 	    },
 	    {
-	        "name": "UM06 — Beskir Ravenspeaker",
+	        "name": "Beskir Ravenspeaker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM06%20%E2%80%94%20Beskir%20Ravenspeaker.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Beskir%20Ravenspeaker.png"
 	        }
 	    },
 	    {
-	        "name": "UM07 — Riverwise Explorer",
+	        "name": "Riverwise Explorer",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Creature — Merfolk Ranger Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM07%20%E2%80%94%20Riverwise%20Explorer.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Riverwise%20Explorer.png"
 	        }
 	    },
 	    {
-	        "name": "CA05 — Urn of Godfire",
+	        "name": "Urn of Godfire",
 	        "rarity": "common",
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CA05%20%E2%80%94%20Urn%20of%20Godfire.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Urn%20of%20Godfire.png"
 	        }
 	    },
 	    {
-	        "name": "UB10 — Hideous Reciprocity",
-	        "rarity": "special",
+	        "name": "Hideous Reciprocity",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB10%20%E2%80%94%20Hideous%20Reciprocity.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Hideous%20Reciprocity.png"
 	        }
 	    },
 	    {
-	        "name": "RB02 — Vexwisher",
-	        "rarity": "special",
+	        "name": "Vexwisher",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Azra Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB02%20%E2%80%94%20Vexwisher.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Vexwisher.png"
 	        }
 	    },
 	    {
-	        "name": "UL01 — Encroaching Bloomland",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UL01%20%E2%80%94%20Encroaching%20Bloomland.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MA05",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MA05.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "MW01",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/MW01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "UM08 — Dire Fleet Marauder",
+	        "name": "Dire Fleet Marauder",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Orc Pirate ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM08%20%E2%80%94%20Dire%20Fleet%20Marauder.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Dire%20Fleet%20Marauder.png"
 	        }
 	    },
 	    {
-	        "name": "UW06 — Stirring Commander",
-	        "rarity": "special",
-	        "mana_cost": "{3}{W}{W}",
+	        "name": "Stirring Commander",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW06%20%E2%80%94%20Stirring%20Commander.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Stirring%20Commander.png"
 	        }
 	    },
 	    {
-	        "name": "UG10 — Memories of Morale",
+	        "name": "Memories of Morale",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UG10%20%E2%80%94%20Memories%20of%20Morale.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Memories%20of%20Morale.png"
 	        }
 	    },
 	    {
-	        "name": "UR10 — Fry",
+	        "name": "Fry",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR10%20%E2%80%94%20Fry.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Fry.png"
 	        }
 	    },
 	    {
-	        "name": "UR02 — Devilish Arsonist",
+	        "name": "Devilish Arsonist",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Devil ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UR02%20%E2%80%94%20Devilish%20Arsonist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Devilish%20Arsonist.png"
 	        }
 	    },
 	    {
-	        "name": "RR04",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RR04.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "UB10 — Deadly Dispute",
+	        "name": "Deadly Dispute",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB10%20%E2%80%94%20Deadly%20Dispute.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Deadly%20Dispute.png"
 	        }
 	    },
 	    {
-	        "name": "RB03 — zombie lord maybe",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB03%20%E2%80%94%20zombie%20lord%20maybe.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RB02",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RB02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RU01",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RU01.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "UW10 — Moment of Glory",
+	        "name": "Moment of Glory",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW10%20%E2%80%94%20Moment%20of%20Glory.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Moment%20of%20Glory.png"
 	        }
 	    },
 	    {
-	        "name": "UW06 — Tenet of Faith",
+	        "name": "Tenet of Faith",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{W}",
+	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UW06%20%E2%80%94%20Tenet%20of%20Faith.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Tenet%20of%20Faith.png"
 	        }
 	    },
 	    {
-	        "name": "RW03",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW03.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "RW02",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RW02.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "UM09 — Gloomshrieker",
+	        "name": "Gloomshrieker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Enchantment Creature — Cat Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UM09%20%E2%80%94%20Gloomshrieker.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Gloomshrieker.png"
 	        }
 	    },
 	    {
-	        "name": "CG12 — Prey Upon",
+	        "name": "Prey Upon",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG12%20%E2%80%94%20Prey%20Upon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Prey%20Upon.png"
 	        }
 	    },
 	    {
-	        "name": "UB08 — Grave Calling",
+	        "name": "Grave Calling",
 	        "rarity": "uncommon",
 	        "mana_cost": "{X}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UB08%20%E2%80%94%20Grave%20Calling.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Grave%20Calling.png"
 	        }
 	    },
 	    {
-	        "name": "CB14 — Moment of Craving",
+	        "name": "Moment of Craving",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB14%20%E2%80%94%20Moment%20of%20Craving.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Moment%20of%20Craving.png"
 	        }
 	    },
 	    {
-	        "name": "CB17 — Duress",
+	        "name": "Duress",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB17%20%E2%80%94%20Duress.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Duress.png"
 	        }
 	    },
 	    {
-	        "name": "UU03 — Man-o'-War",
+	        "name": "Man-o'-War",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Jellyfish ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/UU03%20%E2%80%94%20Man-o%27-War.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Man-o%27-War.png"
 	        }
 	    },
 	    {
-	        "name": "CU16 — Unsummon",
+	        "name": "Unsummon",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU16%20%E2%80%94%20Unsummon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Unsummon.png"
 	        }
 	    },
 	    {
-	        "name": "CU14 — Divination",
+	        "name": "Divination",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU14%20%E2%80%94%20Divination.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Divination.png"
 	        }
 	    },
 	    {
-	        "name": "CU11 — Cancel",
+	        "name": "Cancel",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU11%20%E2%80%94%20Cancel.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Cancel.png"
 	        }
 	    },
 	    {
-	        "name": "CW14 — Sense of Peace",
+	        "name": "Sense of Peace",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW14%20%E2%80%94%20Sense%20of%20Peace.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Sense%20of%20Peace.png"
 	        }
 	    },
 	    {
-	        "name": "CB13 — Pharika's Libation",
+	        "name": "Pharika's Libation",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB13%20%E2%80%94%20Pharika%27s%20Libation.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Pharika%27s%20Libation.png"
 	        }
 	    },
 	    {
-	        "name": "CW03 — Raise the Alarm",
+	        "name": "Raise the Alarm",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW03%20%E2%80%94%20Raise%20the%20Alarm.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Raise%20the%20Alarm.png"
 	        }
 	    },
 	    {
-	        "name": "CB11 — Finishing Blow",
+	        "name": "Finishing Blow",
 	        "rarity": "common",
 	        "mana_cost": "{4}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CB11%20%E2%80%94%20Finishing%20Blow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Finishing%20Blow.png"
 	        }
 	    },
 	    {
-	        "name": "CR11 — Shock",
+	        "name": "Shock",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CR11%20%E2%80%94%20Shock.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Shock.png"
 	        }
 	    },
 	    {
-	        "name": "CL03 — Bloodfell Caves",
+	        "name": "Bloodfell Caves",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL03%20%E2%80%94%20Bloodfell%20Caves.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bloodfell%20Caves.png"
 	        }
 	    },
 	    {
-	        "name": "CL05 — Blossoming Sands",
+	        "name": "Blossoming Sands",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL05%20%E2%80%94%20Blossoming%20Sands.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Blossoming%20Sands.png"
 	        }
 	    },
 	    {
-	        "name": "CL02 — Dismal Backwater",
+	        "name": "Dismal Backwater",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL02%20%E2%80%94%20Dismal%20Backwater.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Dismal%20Backwater.png"
 	        }
 	    },
 	    {
-	        "name": "CL11 — Evolving Wilds",
+	        "name": "Evolving Wilds",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL11%20%E2%80%94%20Evolving%20Wilds.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Evolving%20Wilds.png"
 	        }
 	    },
 	    {
-	        "name": "CL08 — Jungle Hollow",
+	        "name": "Jungle Hollow",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL08%20%E2%80%94%20Jungle%20Hollow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Jungle%20Hollow.png"
 	        }
 	    },
 	    {
-	        "name": "CL04 — Rugged Highlands",
+	        "name": "Rugged Highlands",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL04%20%E2%80%94%20Rugged%20Highlands.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Rugged%20Highlands.png"
 	        }
 	    },
 	    {
-	        "name": "CL06 — Scoured Barrens",
+	        "name": "Scoured Barrens",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL06%20%E2%80%94%20Scoured%20Barrens.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Scoured%20Barrens.png"
 	        }
 	    },
 	    {
-	        "name": "CL07 — Swiftwater Cliffs",
+	        "name": "Swiftwater Cliffs",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL07%20%E2%80%94%20Swiftwater%20Cliffs.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Swiftwater%20Cliffs.png"
 	        }
 	    },
 	    {
-	        "name": "CL10 — Thornwood Falls",
+	        "name": "Thornwood Falls",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL10%20%E2%80%94%20Thornwood%20Falls.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Thornwood%20Falls.png"
 	        }
 	    },
 	    {
-	        "name": "CL01 — Tranquil Cove",
+	        "name": "Tranquil Cove",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL01%20%E2%80%94%20Tranquil%20Cove.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Tranquil%20Cove.png"
 	        }
 	    },
 	    {
-	        "name": "CL09 — Wind-Scarred Crag",
+	        "name": "Wind-Scarred Crag",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CL09%20%E2%80%94%20Wind-Scarred%20Crag.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Wind-Scarred%20Crag.png"
 	        }
 	    },
 	    {
-	        "name": "CW13 — Piercing Light",
+	        "name": "Piercing Light",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW13%20%E2%80%94%20Piercing%20Light.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Piercing%20Light.png"
 	        }
 	    },
 	    {
-	        "name": "CW15 — Bring to Trial",
+	        "name": "Bring to Trial",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW15%20%E2%80%94%20Bring%20to%20Trial.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bring%20to%20Trial.png"
 	        }
 	    },
 	    {
-	        "name": "CW19 — Disenchant",
+	        "name": "Disenchant",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW19%20%E2%80%94%20Disenchant.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Disenchant.png"
 	        }
 	    },
 	    {
-	        "name": "CG19 — Return to Nature",
+	        "name": "Return to Nature",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CG19%20%E2%80%94%20Return%20to%20Nature.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Return%20to%20Nature.png"
 	        }
 	    },
 	    {
-	        "name": "CU12 — Quench",
+	        "name": "Quench",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CU12%20%E2%80%94%20Quench.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Quench.png"
 	        }
 	    },
 	    {
-	        "name": "CA01 — Forgotten Watcher",
+	        "name": "Forgotten Watcher",
 	        "rarity": "common",
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Scarecrow ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CA01%20%E2%80%94%20Forgotten%20Watcher.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Forgotten%20Watcher.png"
 	        }
 	    },
 	    {
-	        "name": "CW11 — Bitterwing",
+	        "name": "Bitterwing",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/CW11%20%E2%80%94%20Bitterwing.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Bitterwing.png"
 	        }
 	    },
 	    {
-	        "name": "RL05 — Canopy Vista",
+	        "name": "Canopy Vista",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Forest Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL05%20%E2%80%94%20Canopy%20Vista.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Canopy%20Vista.png"
 	        }
 	    },
 	    {
-	        "name": "RL04 — Cinder Glade",
+	        "name": "Cinder Glade",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL04%20%E2%80%94%20Cinder%20Glade.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Cinder%20Glade.png"
 	        }
 	    },
 	    {
-	        "name": "RL07 — Coral Cliffs",
+	        "name": "Coral Cliffs",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Island Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL07%20%E2%80%94%20Coral%20Cliffs.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Coral%20Cliffs.png"
 	        }
 	    },
 	    {
-	        "name": "RL10 — Endless Expanse",
+	        "name": "Endless Expanse",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Forest Island ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL10%20%E2%80%94%20Endless%20Expanse.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Endless%20Expanse.png"
 	        }
 	    },
 	    {
-	        "name": "RL08 — Haunted Crevice",
+	        "name": "Haunted Crevice",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL08%20%E2%80%94%20Haunted%20Crevice.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Haunted%20Crevice.png"
 	        }
 	    },
 	    {
-	        "name": "RL01 — Prairie Stream",
+	        "name": "Prairie Stream",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Plains Island ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL01%20%E2%80%94%20Prairie%20Stream.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Prairie%20Stream.png"
 	        }
 	    },
 	    {
-	        "name": "RL09 — Sandy Plateau",
+	        "name": "Sandy Plateau",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL09%20%E2%80%94%20Sandy%20Plateau.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Sandy%20Plateau.png"
 	        }
 	    },
 	    {
-	        "name": "RL03 — Smoldering Marsh",
+	        "name": "Smoldering Marsh",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL03%20%E2%80%94%20Smoldering%20Marsh.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Smoldering%20Marsh.png"
 	        }
 	    },
 	    {
-	        "name": "RL02 — Sunken Hollow",
+	        "name": "Sunken Hollow",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Island Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL02%20%E2%80%94%20Sunken%20Hollow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Sunken%20Hollow.png"
 	        }
 	    },
 	    {
-	        "name": "RL06 — Void Pit",
+	        "name": "Void Pit",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Plains Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Prospect-Core-Set/blob/main/RL06%20%E2%80%94%20Void%20Pit.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Fungustober/Prospect-Core-Set/main/Void%20Pit.png"
 	        }
 	    }
 	]
-	[RareSlot(1)]
-		2 RW01
-		2 RW04
-		2 RW05
-		2 RW06
-		2 RW07
-		2 RU02
-		2 RU03
-		2 RU04
-		2 RU05
-		2 RU06
-		2 RU07
-		2 RB01
-		2 RB04
-		2 RB05
-		2 RB06
-		2 RB07
-		2 RR01
-		2 RR02
-		2 RR03
-		2 RR05
-		2 RR06
-		2 RR07
-		2 RG01
-		2 RG02
-		2 RG03
-		2 RG04 — Flowering Dead
-		2 RG05
-		2 RG06
-		2 RG07
-		2 RW08
-		2 RU08
-		2 RB08
-		2 RR08
-		2 RG08
-		2 RW09
-		2 RU09
-		2 RB09
-		2 RR09
-		2 RG09
-		2 RA01
-		2 RA02
-		2 RA03
-		2 RA04
-		2 RA05
-		2 RA06
-		2 RA07
-		2 RA08
-		2 RR04
-		2 RB03 — zombie lord maybe
-		2 RB02
-		2 RU01
-		2 RW03
-		2 RW02
-		2 RL05 — Canopy Vista
-		2 RL04 — Cinder Glade
-		2 RL07 — Coral Cliffs
-		2 RL10 — Endless Expanse
-		2 RL08 — Haunted Crevice
-		2 RL01 — Prairie Stream
-		2 RL09 — Sandy Plateau
-		2 RL03 — Smoldering Marsh
-		2 RL02 — Sunken Hollow
-		2 RL06 — Void Pit
-		1 MW02
-		1 MU01
-		1 MU02
-		1 MB01
-		1 MB02
-		1 MG01 — Tolek, Who Bargains with Life
-		1 MG02
-		1 MA01
-		1 MA02
-		1 MA03
-		1 MA04
-		1 MA05
-		1 MW01
-	[UncommonSlot(3)]
-		3 UM01 — Arrogant Arcanist
-		3 UM02 — Corpse Knight
-		3 UM04 — Armed Troops
-		3 UM10 — Rubblebelt Shaman
-		3 UW01 — Avenging Knight
-		3 UW02 — Garrison Chef
-		3 UW03 — Seasoned Duelist
-		3 UW05 — Miriam's Purifier
-		3 UW07 — Herald of the Masses
-		3 UW08 — Last Line
-		3 UW09 — Spiritual Substitute
-		3 UW11 — Battle Mastery
-		3 UU01 — Possessed Tome
-		3 UU02 — Nerisal Conspirator
-		3 UU04 — Sorcerer of Thele
-		3 UU05 — Domineering Sphinx
-		3 UU06 — Phantasmal Dragon
-		3 UU07 — Wayfaring Geist
-		3 UU08 — Mind Bond
-		3 UU09 — Remove Insignificance
-		3 UU10 — Icy Armor
-		3 UU11 — Ethereal Chains
-		3 UB01 — Dungeon Nibbler
-		3 UB03 — Blood Inspector
-		3 UB04 — Austere Matriarch
-		3 UB06 — Silversmote Ghoul
-		3 UB05 — Drake of the Lurking Spire
-		3 UB07 — Living Remains
-		3 UB09 — Cry of the Carnarium
-		3 UB11 — Rot Away
-		3 UR01 — Lifeblood Broker
-		3 UR03 — Flamedancer Monk
-		3 UR04 — Instability Elemental
-		3 UR05 — Earthquake Progenitor
-		3 UR06 — Ebonhorn Charger
-		3 UR07 — Combusting Packleader
-		3 UR08 — Impish Ploy
-		3 UR09 — Scattersnipe
-		3 UR11 — Glory in Battle
-		3 UG01 — Companion of Might
-		3 UG02 — Greater Bondbeetle
-		3 UG03 — Shimmerlings
-		3 UG04 — Beastbinder
-		3 UG05 — Decaybound Goliath
-		3 UG06 — Oakwood Sentinel
-		3 UG07 — Cobbleshell Familiar
-		3 UG08 — Lumbering Magebane
-		3 UG09 — Groveseeking
-		3 UG11 — Raise the Meek
-		3 UW12 — Inquisitor's Inspection
-		3 UU12 — Otherworldly Mechanism
-		3 UB12 — Go Blank
-		3 UR12 — Heat of the Forge
-		3 UG12 — Bone Meal
-		3 UA06 — Castaway's Monument
-		3 UA07 — Wurmscale Amber
-		3 UA08 — Bag of Scrap
-		3 UA09 — Cerebral Stimulator
-		3 UA10 — Hell-Brewed Elixir
-		3 UA01 — Gravestone Guardian
-		3 UA02 — Solemn Simulacrum
-		3 UA03 — Roaming Gatecrasher
-		3 UA04 — Voltaic Amulet
-		3 UA05 — Gemseeker Gear
-		3 UW04 — Extraction Baron
-		3 UB02 — Mangy Unhallowed
-		3 UM03 — Hero of the Nyxborn
-		3 UM05 — Unx Archivist
-		3 UM06 — Beskir Ravenspeaker
-		3 UM07 — Riverwise Explorer
-		3 UM08 — Dire Fleet Marauder
-		3 UG10 — Memories of Morale
-		3 UR10 — Fry
-		3 UR02 — Devilish Arsonist
-		3 UB10 — Deadly Dispute
-		3 UW10 — Moment of Glory
-		3 UW06 — Tenet of Faith
-		3 UM09 — Gloomshrieker
-		3 UB08 — Grave Calling
-		3 UU03 — Man-o'-War
+	[UncommonSlot(4)]
+		2 Flowering Dead
+		2 Hadanu's Command
+		2 Stalwart Opposition
+		2 Hideous Reciprocity
+		2 Vexwisher
+		2 Stirring Commander
+		2 Canopy Vista
+		2 Cinder Glade
+		2 Coral Cliffs
+		2 Endless Expanse
+		2 Haunted Crevice
+		2 Prairie Stream
+		2 Sandy Plateau
+		2 Smoldering Marsh
+		2 Sunken Hollow
+		2 Void Pit
+		5 Arrogant Arcanist
+		5 Corpse Knight
+		5 Armed Troops
+		5 Rubblebelt Shaman
+		5 Avenging Knight
+		5 Garrison Chef
+		5 Seasoned Duelist
+		5 Miriam's Purifier
+		5 Herald of the Masses
+		5 Last Line
+		5 Spiritual Substitute
+		5 Battle Mastery
+		5 Possessed Tome
+		5 Nerisal Conspirator
+		5 Sorcerer of Thele
+		5 Domineering Sphinx
+		5 Phantasmal Dragon
+		5 Wayfaring Geist
+		5 Mind Bond
+		5 Remove Insignificance
+		5 Icy Armor
+		5 Ethereal Chains
+		5 Dungeon Nibbler
+		5 Blood Inspector
+		5 Austere Matriarch
+		5 Silversmote Ghoul
+		5 Drake of the Lurking Spire
+		5 Living Remains
+		5 Cry of the Carnarium
+		5 Rot Away
+		5 Lifeblood Broker
+		5 Flamedancer Monk
+		5 Instability Elemental
+		5 Earthquake Progenitor
+		5 Ebonhorn Charger
+		5 Combusting Packleader
+		5 Impish Ploy
+		5 Scattersnipe
+		5 Glory in Battle
+		5 Companion of Might
+		5 Greater Bondbeetle
+		5 Shimmerlings
+		5 Beastbinder
+		5 Decaybound Goliath
+		5 Oakwood Sentinel
+		5 Cobbleshell Familiar
+		5 Lumbering Magebane
+		5 Groveseeking
+		5 Raise the Meek
+		5 Inquisitor's Inspection
+		5 Otherworldly Mechanism
+		5 Go Blank
+		5 Heat of the Forge
+		5 Bone Meal
+		5 Castaway's Monument
+		5 Wurmscale Amber
+		5 Bag of Scrap
+		5 Cerebral Stimulator
+		5 Hell-Brewed Elixir
+		5 Gravestone Guardian
+		5 Solemn Simulacrum
+		5 Roaming Gatecrasher
+		5 Voltaic Amulet
+		5 Gemseeker Gear
+		5 Extraction Baron
+		5 Mangy Unhallowed
+		5 Hero of the Nyxborn
+		5 Unx Archivist
+		5 Beskir Ravenspeaker
+		5 Riverwise Explorer
+		5 Dire Fleet Marauder
+		5 Memories of Morale
+		5 Fry
+		5 Devilish Arsonist
+		5 Deadly Dispute
+		5 Moment of Glory
+		5 Tenet of Faith
+		5 Gloomshrieker
+		5 Grave Calling
+		5 Man-o'-War
 	[CommonSlot(10)]
-		6 CW06 — Charging Commander
-		6 CW08 — Charismatic Tactician
-		6 CW09 — Basri's Acolyte
-		6 CW10 — Guild Taskmaster
-		6 CW12 — Regal Guardian
-		6 CW16 — Defiant Strike
-		6 CW17 — Timeless Strength
-		6 CW18 — Alert the Guild
-		6 CU02 — Augur of the Sapphire
-		6 CU03 — Guiding Siren
-		6 CU04 — Frost Lynx
-		6 CU05 — Crustacean Monstrosity
-		6 CU06 — Forgotten Mourner
-		6 CU07 — Nyxborn Starbather
-		6 CU08 — Cloudgator
-		6 CU09 — Magegrasp Kraken
-		6 CU10 — Wall of Rime
-		6 CU13 — Totally Lost
-		6 CU15 — Search the Scrolls
-		6 CU17 — Focused Strike
-		6 CU18 — Grasp of Oblivion
-		6 CU19 — Flowing Mantle
-		6 CB01 — Serrated Scorpion
-		6 CB02 — Watcher of the Knights
-		6 CB03 — Doomed Dissenter
-		6 CB04 — Unwitting Sacrifice
-		6 CB05 — Skymarch Bloodletter
-		6 CB06 — Ragebringer
-		6 CB07 — Demanding Patron
-		6 CB08 — Deepskulker
-		6 CB09 — Dock Cutthroat
-		6 CB10 — Ashen Tormentor
-		6 CB12 — Merciless Evisceration
-		6 CB15 — Blood Pact
-		6 CB16 — Scornful Return
-		6 CB18 — Demonic Blessing
-		6 CB19 — Altar's benediction
-		6 CR01 — Magma Stoker
-		6 CR02 — Ironclad Smelter
-		6 CR03 — Fireforged Prophet
-		6 CR04 — Carver of Heretics
-		6 CR05 — Magma Elemental
-		6 CR06 — Bellowing Frontliner
-		6 CR07 — Expulsion Elemental
-		6 CR08 — Hellswallower
-		6 CR09 — Shoreside Watcher
-		6 CR10 — Friend of the Drakes
-		6 CR12 — Dragon's Ire
-		6 CR13 — Battle Craze
-		6 CR14 — Flames of War
-		6 CR15 — Burning Triumph
-		6 CR16 — Dragonslayer's Blade
-		6 CR17 — Bloodrage
-		6 CR18 — Jawbreak
-		6 CR19 — Demonic Oriflamme
-		6 CG01 — Shadowblade Champion
-		6 CG02 — Druid of Ashes
-		6 CG03 — Butterfly Shaman
-		6 CG04 — Tolek's Avenger
-		6 CG05 — Skytree Brigade
-		6 CG06 — Pack Bonder
-		6 CG07 — Inspiring Royalty
-		6 CG08 — Sandyard Stalker
-		6 CG09 — Shadowborn Brothers
-		6 CG10 — Colossal Dreadmaw
-		6 CG11 — Fungal Grovetender
-		6 CG13 — Hidden Strike
-		6 CG14 — Spirit Shield
-		6 CG15 — Deathbloom
-		6 CG16 — Queen's Protection
-		6 CG17 — Run Afoul
-		6 CG18 — Worldtwist
-		6 CA02 — Blade of a Lost Age
-		6 CA03 — Reawakened Drone
-		6 CA04 — Titanslayer Axe
-		6 CA06 — Alien Crystal
-		6 CW01 — Flourishing Flock
-		6 CW02 — Herald of Patience
-		6 CW05 — Frostbite Trapper
-		6 CW04 — Field Medic
-		6 CW07 — Glorious Lightbringer
-		6 CU01 — Mageknight Adept
-		6 CA05 — Urn of Godfire
-		6 CG12 — Prey Upon
-		6 CB14 — Moment of Craving
-		6 CB17 — Duress
-		6 CU16 — Unsummon
-		6 CU14 — Divination
-		6 CU11 — Cancel
-		6 CW14 — Sense of Peace
-		6 CB13 — Pharika's Libation
-		6 CW03 — Raise the Alarm
-		6 CB11 — Finishing Blow
-		6 CR11 — Shock
-		6 CL03 — Bloodfell Caves
-		6 CL05 — Blossoming Sands
-		6 CL02 — Dismal Backwater
-		6 CL11 — Evolving Wilds
-		6 CL08 — Jungle Hollow
-		6 CL04 — Rugged Highlands
-		6 CL06 — Scoured Barrens
-		6 CL07 — Swiftwater Cliffs
-		6 CL10 — Thornwood Falls
-		6 CL01 — Tranquil Cove
-		6 CL09 — Wind-Scarred Crag
-		6 CW13 — Piercing Light
-		6 CW15 — Bring to Trial
-		6 CW19 — Disenchant
-		6 CG19 — Return to Nature
-		6 CU12 — Quench
-		6 CA01 — Forgotten Watcher
-		6 CW11 — Bitterwing
-	[BasicSlot(0)]
-	
+		10 Charging Commander
+		10 Charismatic Tactician
+		10 Basri's Acolyte
+		10 Guild Taskmaster
+		10 Regal Guardian
+		10 Defiant Strike
+		10 Timeless Strength
+		10 Alert the Guild
+		10 Augur of the Sapphire
+		10 Guiding Siren
+		10 Frost Lynx
+		10 Crustacean Monstrosity
+		10 Forgotten Mourner
+		10 Nyxborn Starbather
+		10 Cloudgator
+		10 Magegrasp Kraken
+		10 Wall of Rime
+		10 Totally Lost
+		10 Search the Scrolls
+		10 Focused Strike
+		10 Grasp of Oblivion
+		10 Flowing Mantle
+		10 Serrated Scorpion
+		10 Watcher of the Knights
+		10 Doomed Dissenter
+		10 Unwitting Sacrifice
+		10 Skymarch Bloodletter
+		10 Ragebringer
+		10 Demanding Patron
+		10 Deepskulker
+		10 Dock Cutthroat
+		10 Ashen Tormentor
+		10 Merciless Evisceration
+		10 Blood Pact
+		10 Scornful Return
+		10 Demonic Blessing
+		10 Altar's Benediction
+		10 Magma Stoker
+		10 Ironclad Smelter
+		10 Fireforged Prophet
+		10 Carver of Heretics
+		10 Magma Elemental
+		10 Bellowing Frontliner
+		10 Expulsion Elemental
+		10 Hellswallower
+		10 Shoreside Watcher
+		10 Friend of the Drakes
+		10 Dragon's Ire
+		10 Battle Craze
+		10 Flames of War
+		10 Burning Triumph
+		10 Dragonslayer's Blade
+		10 Bloodrage
+		10 Jawbreak
+		10 Demonic Oriflamme
+		10 Shadowblade Champion
+		10 Druid of Ashes
+		10 Butterfly Shaman
+		10 Tolek's Avenger
+		10 Skytree Brigade
+		10 Pack Bonder
+		10 Inspiring Royalty
+		10 Sandyard Stalker
+		10 Shadowborn Brothers
+		10 Colossal Dreadmaw
+		10 Fungal Grovetender
+		10 Hidden Strike
+		10 Spirit Shield
+		10 Deathbloom
+		10 Queen's Protection
+		10 Run Afoul
+		10 Worldtwist
+		10 Blade of a Lost Age
+		10 Reawakened Drone
+		10 Titanslayer Axe
+		10 Alien Crystal
+		10 Flourishing Flock
+		10 Herald of Patience
+		10 Frostbite Trapper
+		10 Field Medic
+		10 Glorious Lightbringer
+		10 Mageknight Adept
+		10 Urn of Godfire
+		10 Prey Upon
+		10 Moment of Craving
+		10 Duress
+		10 Unsummon
+		10 Divination
+		10 Cancel
+		10 Sense of Peace
+		10 Pharika's Libation
+		10 Raise the Alarm
+		10 Finishing Blow
+		10 Shock
+		10 Bloodfell Caves
+		10 Blossoming Sands
+		10 Dismal Backwater
+		10 Evolving Wilds
+		10 Jungle Hollow
+		10 Rugged Highlands
+		10 Scoured Barrens
+		10 Swiftwater Cliffs
+		10 Thornwood Falls
+		10 Tranquil Cove
+		10 Wind-Scarred Crag
+		10 Piercing Light
+		10 Bring to Trial
+		10 Disenchant
+		10 Return to Nature
+		10 Quench
+		10 Forgotten Watcher
+		20 Bitterwing
