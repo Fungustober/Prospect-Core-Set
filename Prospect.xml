@@ -643,7 +643,7 @@ Whenever a nontoken creature dies, target player mills two cards and loses 1 lif
         <cmc>2</cmc>
         <type>Creature - Human Knight </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Carver of Heretics attacks, target creature you control gets +1/+0 until end of turn.</text>
@@ -731,7 +731,7 @@ When Shoreside Watcher enters the battlefield, return target instant or sorcery 
         <cmc>5</cmc>
         <type>Creature - Azra Rogue </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace (This creature can’t be blocked except by two or more creatures.)
@@ -1604,10 +1604,10 @@ Haste (This creature can attack and {T} as soon as it comes under your control.)
         <cmc>5</cmc>
         <type>Creature - Elemental Cat </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Combusting Packleader attacks, creatures you control with power 2 or less get +1/+0 until end of turn.</text>
+      <text>Whenever Combusting Packleader attacks, creatures you control get +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Impish Ploy</name>
@@ -2012,19 +2012,19 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
     </card>
     <card>
-      <name>Flowering Dead</name>
+      <name>Hungering Dead</name>
       <set rarity="rare">PCS</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
         <cmc>4</cmc>
-        <type>Artifact Creature - Plant Zombie </type>
+        <type>Creature - Vampire Zombie </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, return Flowering Dead from your graveyard to your hand.</text>
+At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, return Hungering Dead from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Flourishing Flock</name>
@@ -2342,10 +2342,11 @@ Fry deals 5 damage to target creature or planeswalker that’s white or blue.</t
         <cmc>2</cmc>
         <type>Creature - Devil </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Devilish Arsonist attacks, it deals 1 damage to up to one target player or planeswalker.</text>
+      <text>Whenever Devilish Arsonist attacks, it deals 1 damage to up to one target player or planeswalker.
+2R: Devilish Arsonist gets double strike until end of turn. (This creature deals both first-strike and regular combat damage.)</text>
     </card>
     <card>
       <name>Deadly Dispute</name>
@@ -2460,18 +2461,18 @@ Target creature gets -X/-X until end of turn.</text>
       <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
     </card>
     <card>
-      <name>Man-o&apos;-War</name>
+      <name>Stinging Bluebottle</name>
       <set rarity="uncommon">PCS</set>
       <prop>
         <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
         <type>Creature - Jellyfish </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Man-o’-War enters the battlefield, return target creature to its owner’s hand.</text>
+      <text>When Stinging Bluebottle enters the battlefield, return target creature to its owner’s hand.</text>
     </card>
     <card>
       <name>Unsummon</name>
